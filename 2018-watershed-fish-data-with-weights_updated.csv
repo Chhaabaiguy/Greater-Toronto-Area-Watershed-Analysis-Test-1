@@ -1,0 +1,959 @@
+OBJECTID,StationNam,StationSta,Watershed,SubWatersh,UTMNorthin,UTMEasting,UTMDatum,SampleYear,VisitDate,Common_Nam,TotalWeigh,TotalNum,Sampling_T
+32,CC001WM,Active,Carruthers Creek,CARRUTHERS,4855581,661135,17,2018,6/25/2018,Johnny/Tesselated Darter,2,1,Regional Watershed Monitoring Program
+33,CC001WM,Active,Carruthers Creek,CARRUTHERS,4855581,661135,17,2018,6/25/2018,Pumpkinseed,29,1,Regional Watershed Monitoring Program
+34,CC001WM,Active,Carruthers Creek,CARRUTHERS,4855581,661135,17,2018,6/25/2018,Round Goby,7,3,Regional Watershed Monitoring Program
+35,CC001WM,Active,Carruthers Creek,CARRUTHERS,4855581,661135,17,2018,6/25/2018,White Sucker,40,3,Regional Watershed Monitoring Program
+36,CC002WM,Active,Carruthers Creek,CARRUTHERS,4858871,660295,17,2018,8/29/2018,Blacknose Dace,0,1,Regional Watershed Monitoring Program
+37,CC002WM,Active,Carruthers Creek,CARRUTHERS,4858871,660295,17,2018,8/29/2018,Bluntnose Minnow,0,1,Regional Watershed Monitoring Program
+38,CC002WM,Active,Carruthers Creek,CARRUTHERS,4858871,660295,17,2018,8/29/2018,Brown Bullhead,36,1,Regional Watershed Monitoring Program
+39,CC002WM,Active,Carruthers Creek,CARRUTHERS,4858871,660295,17,2018,8/29/2018,Common Shiner,23,7,Regional Watershed Monitoring Program
+40,CC002WM,Active,Carruthers Creek,CARRUTHERS,4858871,660295,17,2018,8/29/2018,Creek Chub,158,7,Regional Watershed Monitoring Program
+41,CC002WM,Active,Carruthers Creek,CARRUTHERS,4858871,660295,17,2018,8/29/2018,Johnny Darter,4,7,Regional Watershed Monitoring Program
+42,CC002WM,Active,Carruthers Creek,CARRUTHERS,4858871,660295,17,2018,8/29/2018,Longnose Dace,0,2,Regional Watershed Monitoring Program
+43,CC002WM,Active,Carruthers Creek,CARRUTHERS,4858871,660295,17,2018,8/29/2018,Pumpkinseed,5,4,Regional Watershed Monitoring Program
+44,CC002WM,Active,Carruthers Creek,CARRUTHERS,4858871,660295,17,2018,8/29/2018,Round Goby,32,17,Regional Watershed Monitoring Program
+45,CC002WM,Active,Carruthers Creek,CARRUTHERS,4858871,660295,17,2018,8/29/2018,Smallmouth Bass,10,1,Regional Watershed Monitoring Program
+46,CC002WM,Active,Carruthers Creek,CARRUTHERS,4858871,660295,17,2018,8/29/2018,White Sucker,11,7,Regional Watershed Monitoring Program
+47,CC003WM,Active,Carruthers Creek,CARRUTHERS,4863529,658947,17,2018,9/24/2018,Black Crappie,2,1,Regional Watershed Monitoring Program
+48,CC003WM,Active,Carruthers Creek,CARRUTHERS,4863529,658947,17,2018,9/24/2018,Blacknose Dace,20,5,Regional Watershed Monitoring Program
+49,CC003WM,Active,Carruthers Creek,CARRUTHERS,4863529,658947,17,2018,9/24/2018,Creek Chub,257,13,Regional Watershed Monitoring Program
+50,CC003WM,Active,Carruthers Creek,CARRUTHERS,4863529,658947,17,2018,9/24/2018,Johnny Darter,5,9,Regional Watershed Monitoring Program
+51,CC003WM,Active,Carruthers Creek,CARRUTHERS,4863529,658947,17,2018,9/24/2018,Pumpkinseed,16,11,Regional Watershed Monitoring Program
+52,CC003WM,Active,Carruthers Creek,CARRUTHERS,4863529,658947,17,2018,9/24/2018,White Sucker,89,9,Regional Watershed Monitoring Program
+53,CCWP-2018A,Inactive,Carruthers Creek,CARRUTHERS,4862707,659170,17,2018,9/20/2018,Blacknose Dace,9,5,Project
+54,CCWP-2018A,Inactive,Carruthers Creek,CARRUTHERS,4862707,659170,17,2018,9/20/2018,Common Shiner,29,1,Project
+55,CCWP-2018A,Inactive,Carruthers Creek,CARRUTHERS,4862707,659170,17,2018,9/20/2018,Creek Chub,151,17,Project
+56,CCWP-2018A,Inactive,Carruthers Creek,CARRUTHERS,4862707,659170,17,2018,9/20/2018,Fathead Minnow,8,2,Project
+57,CCWP-2018A,Inactive,Carruthers Creek,CARRUTHERS,4862707,659170,17,2018,9/20/2018,Johnny Darter,15,14,Project
+58,CCWP-2018A,Inactive,Carruthers Creek,CARRUTHERS,4862707,659170,17,2018,9/20/2018,Pumpkinseed,24,8,Project
+59,CCWP-2018A,Inactive,Carruthers Creek,CARRUTHERS,4862707,659170,17,2018,9/20/2018,Rainbow Trout,4,1,Project
+60,CCWP-2018A,Inactive,Carruthers Creek,CARRUTHERS,4862707,659170,17,2018,9/20/2018,White Sucker,151,6,Project
+61,CCWP-2018B,Inactive,Carruthers Creek,CARRUTHERS,4861560,659464,17,2018,9/20/2018,Bluntnose Minnow,7,2,Project
+62,CCWP-2018B,Inactive,Carruthers Creek,CARRUTHERS,4861560,659464,17,2018,9/20/2018,Common Shiner,11,1,Project
+63,CCWP-2018B,Inactive,Carruthers Creek,CARRUTHERS,4861560,659464,17,2018,9/20/2018,Creek Chub,113,7,Project
+64,CCWP-2018B,Inactive,Carruthers Creek,CARRUTHERS,4861560,659464,17,2018,9/20/2018,Fathead Minnow,8,2,Project
+65,CCWP-2018B,Inactive,Carruthers Creek,CARRUTHERS,4861560,659464,17,2018,9/20/2018,Johnny Darter,14,12,Project
+66,CCWP-2018B,Inactive,Carruthers Creek,CARRUTHERS,4861560,659464,17,2018,9/20/2018,Longnose Dace,9,4,Project
+67,CCWP-2018B,Inactive,Carruthers Creek,CARRUTHERS,4861560,659464,17,2018,9/20/2018,Pumpkinseed,9,5,Project
+68,CCWP-2018B,Inactive,Carruthers Creek,CARRUTHERS,4861560,659464,17,2018,9/20/2018,White Sucker,5,1,Project
+917,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,Blacknose Dace,70,102,Project
+918,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,Blacknose Dace,0,51,Project
+919,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,Blacknose Dace,0,6,Project
+920,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,Blacknose Dace,0,45,Project
+921,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,Creek Chub,0,50,Project
+922,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,Creek Chub,0,21,Project
+923,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,Creek Chub,0,23,Project
+924,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,Creek Chub,0,4,Project
+925,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,Creek Chub,0,67,Project
+926,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,Creek Chub,236,80,Project
+927,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,Fathead Minnow,10,4,Project
+928,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,Fathead Minnow,0,10,Project
+929,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,Fathead Minnow,0,4,Project
+930,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,Longnose Dace,0,1,Project
+931,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,Longnose Dace,0,1,Project
+932,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,Longnose Dace,9,16,Project
+933,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,White Sucker,3163,71,Project
+934,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,White Sucker,0,69,Project
+935,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,White Sucker,0,16,Project
+936,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,White Sucker,0,28,Project
+937,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,White Sucker,0,8,Project
+938,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/30/2018,White Sucker,0,5,Project
+939,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/26/2018,Blacknose Dace,0,1282,Project
+940,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/26/2018,Creek Chub,0,563,Project
+941,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/26/2018,Fathead Minnow,0,69,Project
+942,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/26/2018,Longnose Dace,0,186,Project
+943,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/26/2018,White Sucker,0,593,Project
+944,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/24/2018,Blacknose Dace,0,2799,Project
+945,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/24/2018,Creek Chub,0,589,Project
+946,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/24/2018,Fathead Minnow,0,112,Project
+947,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/24/2018,Longnose Dace,0,194,Project
+948,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/24/2018,White Sucker,0,497,Project
+949,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/23/2018,Blacknose Dace,0,43,Project
+950,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/23/2018,Creek Chub,0,73,Project
+951,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/23/2018,Fathead Minnow,0,11,Project
+952,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/23/2018,Longnose Dace,0,3,Project
+953,Wilket Creek - Fish Rescue,Inactive,Don River,LOWER WEST DON,4842899,632623,17,2018,7/23/2018,White Sucker,0,75,Project
+674,MAYVON,Active,Don River,UPPER EAST DON,4858217,621918,17,2018,12/3/2018,Fathead Minnow,11,12,
+212,DF006WM,Active,Duffins Creek,EAST DUFFINS CREEK,4860992,655901,17,2018,7/12/2018,Blacknose Dace,73,22,Regional Watershed Monitoring Program
+213,DF006WM,Active,Duffins Creek,EAST DUFFINS CREEK,4860992,655901,17,2018,7/12/2018,Creek Chub,32,2,Regional Watershed Monitoring Program
+214,DF006WM,Active,Duffins Creek,EAST DUFFINS CREEK,4860992,655901,17,2018,7/12/2018,Johnny Darter,4,2,Regional Watershed Monitoring Program
+215,DF006WM,Active,Duffins Creek,EAST DUFFINS CREEK,4860992,655901,17,2018,7/12/2018,Longnose Dace,409,85,Regional Watershed Monitoring Program
+216,DF006WM,Active,Duffins Creek,EAST DUFFINS CREEK,4860992,655901,17,2018,7/12/2018,Oncorhynchus sp.,7,8,Regional Watershed Monitoring Program
+217,DF006WM,Active,Duffins Creek,EAST DUFFINS CREEK,4860992,655901,17,2018,7/12/2018,Rainbow Darter,14,7,Regional Watershed Monitoring Program
+218,DF006WM,Active,Duffins Creek,EAST DUFFINS CREEK,4860992,655901,17,2018,7/12/2018,Rainbow Trout,27,2,Regional Watershed Monitoring Program
+294,DF018WM,Active,Duffins Creek,EAST DUFFINS CREEK,4863420,654880,17,2018,7/25/2018,Blacknose Dace,56,23,Regional Watershed Monitoring Program
+295,DF018WM,Active,Duffins Creek,EAST DUFFINS CREEK,4863420,654880,17,2018,7/25/2018,Creek Chub,38,6,Regional Watershed Monitoring Program
+296,DF018WM,Active,Duffins Creek,EAST DUFFINS CREEK,4863420,654880,17,2018,7/25/2018,Johnny Darter,0,4,Regional Watershed Monitoring Program
+297,DF018WM,Active,Duffins Creek,EAST DUFFINS CREEK,4863420,654880,17,2018,7/25/2018,Largemouth Bass,2,1,Regional Watershed Monitoring Program
+298,DF018WM,Active,Duffins Creek,EAST DUFFINS CREEK,4863420,654880,17,2018,7/25/2018,Longnose Dace,12,2,Regional Watershed Monitoring Program
+299,DF018WM,Active,Duffins Creek,EAST DUFFINS CREEK,4863420,654880,17,2018,7/25/2018,Mottled Sculpin,8,9,Regional Watershed Monitoring Program
+300,DF018WM,Active,Duffins Creek,EAST DUFFINS CREEK,4863420,654880,17,2018,7/25/2018,Rainbow Darter,2,1,Regional Watershed Monitoring Program
+301,DF018WM,Active,Duffins Creek,EAST DUFFINS CREEK,4863420,654880,17,2018,7/25/2018,Rainbow Trout,18,18,Regional Watershed Monitoring Program
+302,DF018WM,Active,Duffins Creek,EAST DUFFINS CREEK,4863420,654880,17,2018,7/25/2018,White Sucker,0,1,Regional Watershed Monitoring Program
+303,DF019WM,Active,Duffins Creek,EAST DUFFINS CREEK,4867726,654017,17,2018,8/23/2018,American Brook Lamprey,32,5,Regional Watershed Monitoring Program
+304,DF019WM,Active,Duffins Creek,EAST DUFFINS CREEK,4867726,654017,17,2018,8/23/2018,Atlantic Salmon,88,10,Regional Watershed Monitoring Program
+305,DF019WM,Active,Duffins Creek,EAST DUFFINS CREEK,4867726,654017,17,2018,8/23/2018,Blacknose Dace,89,31,Regional Watershed Monitoring Program
+306,DF019WM,Active,Duffins Creek,EAST DUFFINS CREEK,4867726,654017,17,2018,8/23/2018,Brook Trout,114,6,Regional Watershed Monitoring Program
+307,DF019WM,Active,Duffins Creek,EAST DUFFINS CREEK,4867726,654017,17,2018,8/23/2018,Creek Chub,2,3,Regional Watershed Monitoring Program
+308,DF019WM,Active,Duffins Creek,EAST DUFFINS CREEK,4867726,654017,17,2018,8/23/2018,Longnose Dace,151,102,Regional Watershed Monitoring Program
+309,DF019WM,Active,Duffins Creek,EAST DUFFINS CREEK,4867726,654017,17,2018,8/23/2018,Rainbow Darter,93,70,Regional Watershed Monitoring Program
+310,DF019WM,Active,Duffins Creek,EAST DUFFINS CREEK,4867726,654017,17,2018,8/23/2018,White Sucker,8,7,Regional Watershed Monitoring Program
+311,DF020WMb,Active,Duffins Creek,EAST DUFFINS CREEK,4869244,650292,17,2018,8/20/2018,Blacknose Dace,22,22,Regional Watershed Monitoring Program
+312,DF020WMb,Active,Duffins Creek,EAST DUFFINS CREEK,4869244,650292,17,2018,8/20/2018,Brook Trout,42,1,Regional Watershed Monitoring Program
+313,DF020WMb,Active,Duffins Creek,EAST DUFFINS CREEK,4869244,650292,17,2018,8/20/2018,Creek Chub,153,19,Regional Watershed Monitoring Program
+314,DF020WMb,Active,Duffins Creek,EAST DUFFINS CREEK,4869244,650292,17,2018,8/20/2018,Longnose Dace,31,14,Regional Watershed Monitoring Program
+315,DF020WMb,Active,Duffins Creek,EAST DUFFINS CREEK,4869244,650292,17,2018,8/20/2018,Rainbow Darter,11,5,Regional Watershed Monitoring Program
+316,DF021WM,Active,Duffins Creek,EAST DUFFINS CREEK,4873454,654681,17,2018,7/4/2018,Blacknose Dace,7,1,Regional Watershed Monitoring Program
+317,DF021WM,Active,Duffins Creek,EAST DUFFINS CREEK,4873454,654681,17,2018,7/4/2018,Brook Trout,190,17,Regional Watershed Monitoring Program
+318,DF021WMb,Active,Duffins Creek,EAST DUFFINS CREEK,4873264,654647,17,2018,11/12/2018,Blacknose Dace,7,1,Regional Watershed Monitoring Program
+319,DF021WMb,Active,Duffins Creek,EAST DUFFINS CREEK,4873264,654647,17,2018,11/12/2018,Brook Trout,190,17,Regional Watershed Monitoring Program
+347,DNUP-4,Inactive,Duffins Creek,EAST DUFFINS CREEK,4870467,647867,17,2018,9/12/2018,Blacknose Dace,40,14,Project
+348,DNUP-4,Inactive,Duffins Creek,EAST DUFFINS CREEK,4870467,647867,17,2018,9/12/2018,Brook Stickleback,16,34,Project
+349,DNUP-4,Inactive,Duffins Creek,EAST DUFFINS CREEK,4870467,647867,17,2018,9/12/2018,Creek Chub,170,24,Project
+350,DNUP-4,Inactive,Duffins Creek,EAST DUFFINS CREEK,4870467,647867,17,2018,9/12/2018,Fathead Minnow,18,8,Project
+193,DF004WM,Active,Duffins Creek,GANATSEKIAGON CREEK,4858539,653996,17,2018,7/18/2018,Blacknose Dace,14,11,Regional Watershed Monitoring Program
+194,DF004WM,Active,Duffins Creek,GANATSEKIAGON CREEK,4858539,653996,17,2018,7/18/2018,Common Shiner,4,1,Regional Watershed Monitoring Program
+195,DF004WM,Active,Duffins Creek,GANATSEKIAGON CREEK,4858539,653996,17,2018,7/18/2018,Creek Chub,47,5,Regional Watershed Monitoring Program
+196,DF004WM,Active,Duffins Creek,GANATSEKIAGON CREEK,4858539,653996,17,2018,7/18/2018,Johnny Darter,3,3,Regional Watershed Monitoring Program
+197,DF004WM,Active,Duffins Creek,GANATSEKIAGON CREEK,4858539,653996,17,2018,7/18/2018,Longnose Dace,9,1,Regional Watershed Monitoring Program
+198,DF004WM,Active,Duffins Creek,GANATSEKIAGON CREEK,4858539,653996,17,2018,7/18/2018,Mottled Sculpin,11,5,Regional Watershed Monitoring Program
+199,DF004WM,Active,Duffins Creek,GANATSEKIAGON CREEK,4858539,653996,17,2018,7/18/2018,Rainbow Darter,3,2,Regional Watershed Monitoring Program
+200,DF004WM,Active,Duffins Creek,GANATSEKIAGON CREEK,4858539,653996,17,2018,7/18/2018,Rainbow Trout,4,9,Regional Watershed Monitoring Program
+201,DF004WM,Active,Duffins Creek,GANATSEKIAGON CREEK,4858539,653996,17,2018,7/18/2018,White Sucker,1,2,Regional Watershed Monitoring Program
+223,DF008WM,Active,Duffins Creek,GANATSEKIAGON CREEK,4860497,652754,17,2018,8/1/2018,American Brook Lamprey,10,1,Regional Watershed Monitoring Program
+224,DF008WM,Active,Duffins Creek,GANATSEKIAGON CREEK,4860497,652754,17,2018,8/1/2018,Blacknose Dace,42,10,Regional Watershed Monitoring Program
+225,DF008WM,Active,Duffins Creek,GANATSEKIAGON CREEK,4860497,652754,17,2018,8/1/2018,Creek Chub,5,1,Regional Watershed Monitoring Program
+226,DF008WM,Active,Duffins Creek,GANATSEKIAGON CREEK,4860497,652754,17,2018,8/1/2018,Mottled Sculpin,13,10,Regional Watershed Monitoring Program
+227,DF008WM,Active,Duffins Creek,GANATSEKIAGON CREEK,4860497,652754,17,2018,8/1/2018,Rainbow Trout,33,14,Regional Watershed Monitoring Program
+384,GTDF,Inactive,Duffins Creek,GANATSEKIAGON CREEK,4859945,652775,17,2018,8/1/2018,Blacknose Dace,34,12,Project
+385,GTDF,Inactive,Duffins Creek,GANATSEKIAGON CREEK,4859945,652775,17,2018,8/1/2018,Creek Chub,15,6,Project
+386,GTDF,Inactive,Duffins Creek,GANATSEKIAGON CREEK,4859945,652775,17,2018,8/1/2018,Mottled Sculpin,6,9,Project
+387,GTDF,Inactive,Duffins Creek,GANATSEKIAGON CREEK,4859945,652775,17,2018,8/1/2018,Rainbow Trout,106,34,Project
+388,GTGD,Inactive,Duffins Creek,GANATSEKIAGON CREEK,4860897,652451,17,2018,9/7/2018,Blacknose Dace,61,30,Project
+389,GTGD,Inactive,Duffins Creek,GANATSEKIAGON CREEK,4860897,652451,17,2018,9/7/2018,Creek Chub,23,6,Project
+390,GTGD,Inactive,Duffins Creek,GANATSEKIAGON CREEK,4860897,652451,17,2018,9/7/2018,Mottled Sculpin,28,24,Project
+391,GTGD,Inactive,Duffins Creek,GANATSEKIAGON CREEK,4860897,652451,17,2018,9/7/2018,Rainbow Trout,19,9,Project
+392,GTUR,Inactive,Duffins Creek,GANATSEKIAGON CREEK,4860435,652795,17,2018,7/18/2018,Blacknose Dace,80,21,Project
+393,GTUR,Inactive,Duffins Creek,GANATSEKIAGON CREEK,4860435,652795,17,2018,7/18/2018,Creek Chub,38,4,Project
+394,GTUR,Inactive,Duffins Creek,GANATSEKIAGON CREEK,4860435,652795,17,2018,7/18/2018,Mottled Sculpin,16,5,Project
+395,GTUR,Inactive,Duffins Creek,GANATSEKIAGON CREEK,4860435,652795,17,2018,7/18/2018,Rainbow Trout,14,19,Project
+69,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Bluntnose Minnow,0,1,Project
+70,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Bowfin,124,1,Project
+71,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Bowfin,1250,1,Project
+72,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Bowfin,562,1,Project
+73,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Brown Bullhead,23,2,Project
+74,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Brown Bullhead,32,2,Project
+75,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Brown Bullhead,69,3,Project
+76,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Brown Bullhead,32,1,Project
+77,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Brown Bullhead,29,2,Project
+78,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Common Carp,270,3,Project
+79,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Gizzard Shad,14,1,Project
+80,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Golden Shiner,22,2,Project
+81,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Largemouth Bass,600,1,Project
+82,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Largemouth Bass,21,1,Project
+83,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Northern Pike,600,1,Project
+84,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Pumpkinseed,4,1,Project
+85,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Pumpkinseed,10,3,Project
+86,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Pumpkinseed,194,12,Project
+87,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Pumpkinseed,15,5,Project
+88,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Pumpkinseed,14,1,Project
+89,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Spotfin Shiner,4,1,Project
+90,CLOCA E-Fishing - Duffins,Inactive,Duffins Creek,LOWER MAIN DUFFINS,4853960,657703,17,2018,9/6/2018,Yellow Perch,3,1,Project
+168,DF001WM,Active,Duffins Creek,LOWER MAIN DUFFINS,4855828,657611,17,2018,6/22/2018,Blacknose Dace,1,1,Regional Watershed Monitoring Program
+169,DF001WM,Active,Duffins Creek,LOWER MAIN DUFFINS,4855828,657611,17,2018,6/22/2018,Bowfin,6,1,Regional Watershed Monitoring Program
+170,DF001WM,Active,Duffins Creek,LOWER MAIN DUFFINS,4855828,657611,17,2018,6/22/2018,Creek Chub,4,1,Regional Watershed Monitoring Program
+171,DF001WM,Active,Duffins Creek,LOWER MAIN DUFFINS,4855828,657611,17,2018,6/22/2018,Largemouth Bass,1,1,Regional Watershed Monitoring Program
+172,DF001WM,Active,Duffins Creek,LOWER MAIN DUFFINS,4855828,657611,17,2018,6/22/2018,Pumpkinseed,33,6,Regional Watershed Monitoring Program
+173,DF001WM,Active,Duffins Creek,LOWER MAIN DUFFINS,4855828,657611,17,2018,6/22/2018,Rainbow Trout,34,1,Regional Watershed Monitoring Program
+174,DF001WM,Active,Duffins Creek,LOWER MAIN DUFFINS,4855828,657611,17,2018,6/22/2018,Rock Bass,541,8,Regional Watershed Monitoring Program
+175,DF001WM,Active,Duffins Creek,LOWER MAIN DUFFINS,4855828,657611,17,2018,6/22/2018,Round Goby,207,63,Regional Watershed Monitoring Program
+176,DF001WM,Active,Duffins Creek,LOWER MAIN DUFFINS,4855828,657611,17,2018,6/22/2018,White Sucker,326,13,Regional Watershed Monitoring Program
+177,DF001WM,Active,Duffins Creek,LOWER MAIN DUFFINS,4855828,657611,17,2018,6/22/2018,Yellow Perch,125,2,Regional Watershed Monitoring Program
+178,DF002WM,Active,Duffins Creek,MILLERS CREEK,4857434,657190,17,2018,6/25/2018,Blacknose Dace,222,53,Regional Watershed Monitoring Program
+179,DF002WM,Active,Duffins Creek,MILLERS CREEK,4857434,657190,17,2018,6/25/2018,Common Shiner,10,4,Regional Watershed Monitoring Program
+180,DF002WM,Active,Duffins Creek,MILLERS CREEK,4857434,657190,17,2018,6/25/2018,Creek Chub,95,14,Regional Watershed Monitoring Program
+181,DF002WM,Active,Duffins Creek,MILLERS CREEK,4857434,657190,17,2018,6/25/2018,Fathead Minnow,5,2,Regional Watershed Monitoring Program
+182,DF002WM,Active,Duffins Creek,MILLERS CREEK,4857434,657190,17,2018,6/25/2018,Longnose Dace,179,30,Regional Watershed Monitoring Program
+183,DF002WM,Active,Duffins Creek,MILLERS CREEK,4857434,657190,17,2018,6/25/2018,Pumpkinseed,7,1,Regional Watershed Monitoring Program
+184,DF002WM,Active,Duffins Creek,MILLERS CREEK,4857434,657190,17,2018,6/25/2018,White Sucker,1,5,Regional Watershed Monitoring Program
+202,DF005WM,Active,Duffins Creek,URFE CREEK,4858979,654781,17,2018,7/19/2018,Atlantic Salmon,10,1,Regional Watershed Monitoring Program
+203,DF005WM,Active,Duffins Creek,URFE CREEK,4858979,654781,17,2018,7/19/2018,Blacknose Dace,40,45,Regional Watershed Monitoring Program
+204,DF005WM,Active,Duffins Creek,URFE CREEK,4858979,654781,17,2018,7/19/2018,Common Shiner,4,2,Regional Watershed Monitoring Program
+205,DF005WM,Active,Duffins Creek,URFE CREEK,4858979,654781,17,2018,7/19/2018,Creek Chub,281,42,Regional Watershed Monitoring Program
+206,DF005WM,Active,Duffins Creek,URFE CREEK,4858979,654781,17,2018,7/19/2018,Cyprinidae,1,5,Regional Watershed Monitoring Program
+207,DF005WM,Active,Duffins Creek,URFE CREEK,4858979,654781,17,2018,7/19/2018,Johnny Darter,15,11,Regional Watershed Monitoring Program
+208,DF005WM,Active,Duffins Creek,URFE CREEK,4858979,654781,17,2018,7/19/2018,Petromyzontidae,3,1,Regional Watershed Monitoring Program
+209,DF005WM,Active,Duffins Creek,URFE CREEK,4858979,654781,17,2018,7/19/2018,Rainbow Darter,27,15,Regional Watershed Monitoring Program
+210,DF005WM,Active,Duffins Creek,URFE CREEK,4858979,654781,17,2018,7/19/2018,Rainbow Trout,1,1,Regional Watershed Monitoring Program
+211,DF005WM,Active,Duffins Creek,URFE CREEK,4858979,654781,17,2018,7/19/2018,White Sucker,59,5,Regional Watershed Monitoring Program
+219,DF007WM,Active,Duffins Creek,URFE CREEK,4860816,653757,17,2018,7/19/2018,Blacknose Dace,134,47,Regional Watershed Monitoring Program
+220,DF007WM,Active,Duffins Creek,URFE CREEK,4860816,653757,17,2018,7/19/2018,Brook Stickleback,1,1,Regional Watershed Monitoring Program
+221,DF007WM,Active,Duffins Creek,URFE CREEK,4860816,653757,17,2018,7/19/2018,Creek Chub,195,33,Regional Watershed Monitoring Program
+222,DF007WM,Active,Duffins Creek,URFE CREEK,4860816,653757,17,2018,7/19/2018,White Sucker,77,1,Regional Watershed Monitoring Program
+331,DFHW4,Inactive,Duffins Creek,URFE CREEK,4863474,652111,17,2018,8/15/2018,Blacknose Dace,86,36,Project
+332,DFHW4,Inactive,Duffins Creek,URFE CREEK,4863474,652111,17,2018,8/15/2018,Creek Chub,212,24,Project
+333,DFHW5,Active,Duffins Creek,URFE CREEK,4862647,652387,17,2018,8/20/2018,Blacknose Dace,110,27,Project
+334,DFHW5,Active,Duffins Creek,URFE CREEK,4862647,652387,17,2018,8/20/2018,Creek Chub,209,19,Project
+335,DFHW5,Active,Duffins Creek,URFE CREEK,4862647,652387,17,2018,8/20/2018,Fathead Minnow,1,1,Project
+336,DFHW5,Active,Duffins Creek,URFE CREEK,4862647,652387,17,2018,8/20/2018,Rainbow Trout,65,7,Project
+888,URD5b,Active,Duffins Creek,URFE CREEK,4862106,652922,17,2018,8/1/2018,Blacknose Dace,25,6,Project
+889,URD5b,Active,Duffins Creek,URFE CREEK,4862106,652922,17,2018,8/1/2018,Brook Stickleback,8,20,Project
+890,URD5b,Active,Duffins Creek,URFE CREEK,4862106,652922,17,2018,8/1/2018,Common Shiner,37,12,Project
+891,URD5b,Active,Duffins Creek,URFE CREEK,4862106,652922,17,2018,8/1/2018,Creek Chub,919,90,Project
+892,URD5b,Active,Duffins Creek,URFE CREEK,4862106,652922,17,2018,8/1/2018,Fathead Minnow,2,2,Project
+893,URD5b,Active,Duffins Creek,URFE CREEK,4862106,652922,17,2018,8/1/2018,Johnny Darter,26,16,Project
+894,URD5b,Active,Duffins Creek,URFE CREEK,4862106,652922,17,2018,8/1/2018,White Sucker,113,6,Project
+895,URDT,Inactive,Duffins Creek,URFE CREEK,4860634,653888,17,2018,7/25/2018,Blacknose Dace,184,50,Project
+896,URDT,Inactive,Duffins Creek,URFE CREEK,4860634,653888,17,2018,7/25/2018,Creek Chub,354,42,Project
+897,URDT,Inactive,Duffins Creek,URFE CREEK,4860634,653888,17,2018,7/25/2018,Johnny Darter,5,4,Project
+898,URDT,Inactive,Duffins Creek,URFE CREEK,4860634,653888,17,2018,7/25/2018,White Sucker,83,5,Project
+899,URU3,Inactive,Duffins Creek,URFE CREEK,4859481,654710,17,2018,8/16/2018,Blacknose Dace,32,35,Project
+900,URU3,Inactive,Duffins Creek,URFE CREEK,4859481,654710,17,2018,8/16/2018,Bluntnose Minnow,36,10,Project
+901,URU3,Inactive,Duffins Creek,URFE CREEK,4859481,654710,17,2018,8/16/2018,Brook Stickleback,0,1,Project
+902,URU3,Inactive,Duffins Creek,URFE CREEK,4859481,654710,17,2018,8/16/2018,Common Shiner,83,33,Project
+903,URU3,Inactive,Duffins Creek,URFE CREEK,4859481,654710,17,2018,8/16/2018,Creek Chub,594,115,Project
+904,URU3,Inactive,Duffins Creek,URFE CREEK,4859481,654710,17,2018,8/16/2018,Fathead Minnow,20,7,Project
+905,URU3,Inactive,Duffins Creek,URFE CREEK,4859481,654710,17,2018,8/16/2018,Johnny Darter,34,38,Project
+906,URU3,Inactive,Duffins Creek,URFE CREEK,4859481,654710,17,2018,8/16/2018,Longnose Dace,3,3,Project
+907,URU3,Inactive,Duffins Creek,URFE CREEK,4859481,654710,17,2018,8/16/2018,Petromyzontidae,7,1,Project
+908,URU3,Inactive,Duffins Creek,URFE CREEK,4859481,654710,17,2018,8/16/2018,Pumpkinseed,10,1,Project
+909,URU3,Inactive,Duffins Creek,URFE CREEK,4859481,654710,17,2018,8/16/2018,Rainbow Darter,40,22,Project
+910,URU3,Inactive,Duffins Creek,URFE CREEK,4859481,654710,17,2018,8/16/2018,White Sucker,333,38,Project
+185,DF003WM,Active,Duffins Creek,WEST DUFFINS CREEK,4856988,654526,17,2018,8/2/2018,Blacknose Dace,11,19,Regional Watershed Monitoring Program
+186,DF003WM,Active,Duffins Creek,WEST DUFFINS CREEK,4856988,654526,17,2018,8/2/2018,Common Shiner,0,4,Regional Watershed Monitoring Program
+187,DF003WM,Active,Duffins Creek,WEST DUFFINS CREEK,4856988,654526,17,2018,8/2/2018,Creek Chub,141,19,Regional Watershed Monitoring Program
+188,DF003WM,Active,Duffins Creek,WEST DUFFINS CREEK,4856988,654526,17,2018,8/2/2018,Cyprinidae,0,1,Regional Watershed Monitoring Program
+189,DF003WM,Active,Duffins Creek,WEST DUFFINS CREEK,4856988,654526,17,2018,8/2/2018,Johnny Darter,7,6,Regional Watershed Monitoring Program
+190,DF003WM,Active,Duffins Creek,WEST DUFFINS CREEK,4856988,654526,17,2018,8/2/2018,Longnose Dace,118,66,Regional Watershed Monitoring Program
+191,DF003WM,Active,Duffins Creek,WEST DUFFINS CREEK,4856988,654526,17,2018,8/2/2018,Rainbow Darter,70,42,Regional Watershed Monitoring Program
+192,DF003WM,Active,Duffins Creek,WEST DUFFINS CREEK,4856988,654526,17,2018,8/2/2018,White Sucker,1,10,Regional Watershed Monitoring Program
+228,DF009WM,Active,Duffins Creek,WEST DUFFINS CREEK,4859278,650018,17,2018,6/13/2018,Atlantic Salmon,60,2,Regional Watershed Monitoring Program
+229,DF009WM,Active,Duffins Creek,WEST DUFFINS CREEK,4859278,650018,17,2018,6/13/2018,Blacknose Dace,38,8,Regional Watershed Monitoring Program
+230,DF009WM,Active,Duffins Creek,WEST DUFFINS CREEK,4859278,650018,17,2018,6/13/2018,Bluntnose Minnow,5,1,Regional Watershed Monitoring Program
+231,DF009WM,Active,Duffins Creek,WEST DUFFINS CREEK,4859278,650018,17,2018,6/13/2018,Common Shiner,4,1,Regional Watershed Monitoring Program
+232,DF009WM,Active,Duffins Creek,WEST DUFFINS CREEK,4859278,650018,17,2018,6/13/2018,Creek Chub,8,2,Regional Watershed Monitoring Program
+233,DF009WM,Active,Duffins Creek,WEST DUFFINS CREEK,4859278,650018,17,2018,6/13/2018,Cyprinidae,0,1,Regional Watershed Monitoring Program
+234,DF009WM,Active,Duffins Creek,WEST DUFFINS CREEK,4859278,650018,17,2018,6/13/2018,Longnose Dace,21,4,Regional Watershed Monitoring Program
+235,DF009WM,Active,Duffins Creek,WEST DUFFINS CREEK,4859278,650018,17,2018,6/13/2018,Stonecat,30,3,Regional Watershed Monitoring Program
+236,DF009WM,Active,Duffins Creek,WEST DUFFINS CREEK,4859278,650018,17,2018,6/13/2018,White Sucker,46,2,Regional Watershed Monitoring Program
+237,DF010WM,Active,Duffins Creek,WEST DUFFINS CREEK,4859373,649141,17,2018,8/14/2018,Blacknose Dace,22,11,Regional Watershed Monitoring Program
+238,DF010WM,Active,Duffins Creek,WEST DUFFINS CREEK,4859373,649141,17,2018,8/14/2018,Common Shiner,13,2,Regional Watershed Monitoring Program
+239,DF010WM,Active,Duffins Creek,WEST DUFFINS CREEK,4859373,649141,17,2018,8/14/2018,Creek Chub,236,18,Regional Watershed Monitoring Program
+240,DF010WM,Active,Duffins Creek,WEST DUFFINS CREEK,4859373,649141,17,2018,8/14/2018,Johnny Darter,1,1,Regional Watershed Monitoring Program
+241,DF010WM,Active,Duffins Creek,WEST DUFFINS CREEK,4859373,649141,17,2018,8/14/2018,Longnose Dace,447,129,Regional Watershed Monitoring Program
+242,DF010WM,Active,Duffins Creek,WEST DUFFINS CREEK,4859373,649141,17,2018,8/14/2018,Mottled Sculpin,0,1,Regional Watershed Monitoring Program
+243,DF010WM,Active,Duffins Creek,WEST DUFFINS CREEK,4859373,649141,17,2018,8/14/2018,Rainbow Darter,57,35,Regional Watershed Monitoring Program
+244,DF010WM,Active,Duffins Creek,WEST DUFFINS CREEK,4859373,649141,17,2018,8/14/2018,Rainbow Trout,29,1,Regional Watershed Monitoring Program
+245,DF010WM,Active,Duffins Creek,WEST DUFFINS CREEK,4859373,649141,17,2018,8/14/2018,Stonecat,36,1,Regional Watershed Monitoring Program
+246,DF010WM,Active,Duffins Creek,WEST DUFFINS CREEK,4859373,649141,17,2018,8/14/2018,White Sucker,102,3,Regional Watershed Monitoring Program
+247,DF011WM,Active,Duffins Creek,WEST DUFFINS CREEK,4862672,645865,17,2018,8/2/2018,Atlantic Salmon,32,7,Regional Watershed Monitoring Program
+248,DF011WM,Active,Duffins Creek,WEST DUFFINS CREEK,4862672,645865,17,2018,8/2/2018,Blacknose Dace,23,21,Regional Watershed Monitoring Program
+249,DF011WM,Active,Duffins Creek,WEST DUFFINS CREEK,4862672,645865,17,2018,8/2/2018,Brook Stickleback,0,1,Regional Watershed Monitoring Program
+250,DF011WM,Active,Duffins Creek,WEST DUFFINS CREEK,4862672,645865,17,2018,8/2/2018,Common Shiner,3,27,Regional Watershed Monitoring Program
+251,DF011WM,Active,Duffins Creek,WEST DUFFINS CREEK,4862672,645865,17,2018,8/2/2018,Creek Chub,64,30,Regional Watershed Monitoring Program
+252,DF011WM,Active,Duffins Creek,WEST DUFFINS CREEK,4862672,645865,17,2018,8/2/2018,Johnny Darter,9,5,Regional Watershed Monitoring Program
+253,DF011WM,Active,Duffins Creek,WEST DUFFINS CREEK,4862672,645865,17,2018,8/2/2018,Longnose Dace,22,9,Regional Watershed Monitoring Program
+254,DF011WM,Active,Duffins Creek,WEST DUFFINS CREEK,4862672,645865,17,2018,8/2/2018,Mottled Sculpin,59,42,Regional Watershed Monitoring Program
+255,DF011WM,Active,Duffins Creek,WEST DUFFINS CREEK,4862672,645865,17,2018,8/2/2018,Rainbow Darter,107,79,Regional Watershed Monitoring Program
+256,DF011WM,Active,Duffins Creek,WEST DUFFINS CREEK,4862672,645865,17,2018,8/2/2018,White Sucker,8,7,Regional Watershed Monitoring Program
+257,DF012WM,Active,Duffins Creek,WEST DUFFINS CREEK,4864116,646142,17,2018,8/14/2018,Atlantic Salmon,328,38,Regional Watershed Monitoring Program
+258,DF012WM,Active,Duffins Creek,WEST DUFFINS CREEK,4864116,646142,17,2018,8/14/2018,Blacknose Dace,3,3,Regional Watershed Monitoring Program
+259,DF012WM,Active,Duffins Creek,WEST DUFFINS CREEK,4864116,646142,17,2018,8/14/2018,Brook Trout,4,2,Regional Watershed Monitoring Program
+260,DF012WM,Active,Duffins Creek,WEST DUFFINS CREEK,4864116,646142,17,2018,8/14/2018,Creek Chub,75,16,Regional Watershed Monitoring Program
+261,DF012WM,Active,Duffins Creek,WEST DUFFINS CREEK,4864116,646142,17,2018,8/14/2018,Longnose Dace,513,72,Regional Watershed Monitoring Program
+262,DF012WM,Active,Duffins Creek,WEST DUFFINS CREEK,4864116,646142,17,2018,8/14/2018,Mottled Sculpin,1,3,Regional Watershed Monitoring Program
+263,DF012WM,Active,Duffins Creek,WEST DUFFINS CREEK,4864116,646142,17,2018,8/14/2018,Rainbow Darter,30,10,Regional Watershed Monitoring Program
+264,DF013WM,Active,Duffins Creek,WEST DUFFINS CREEK,4866423,644223,17,2018,8/22/2018,Blacknose Dace,13,12,Regional Watershed Monitoring Program
+265,DF013WM,Active,Duffins Creek,WEST DUFFINS CREEK,4866423,644223,17,2018,8/22/2018,Creek Chub,44,18,Regional Watershed Monitoring Program
+266,DF013WM,Active,Duffins Creek,WEST DUFFINS CREEK,4866423,644223,17,2018,8/22/2018,Longnose Dace,220,73,Regional Watershed Monitoring Program
+267,DF013WM,Active,Duffins Creek,WEST DUFFINS CREEK,4866423,644223,17,2018,8/22/2018,Mottled Sculpin,1,1,Regional Watershed Monitoring Program
+268,DF013WM,Active,Duffins Creek,WEST DUFFINS CREEK,4866423,644223,17,2018,8/22/2018,Rainbow Darter,50,28,Regional Watershed Monitoring Program
+269,DF014WM,Active,Duffins Creek,WEST DUFFINS CREEK,4868444,641828,17,2018,7/5/2018,Blacknose Dace,79,21,Regional Watershed Monitoring Program
+270,DF014WM,Active,Duffins Creek,WEST DUFFINS CREEK,4868444,641828,17,2018,7/5/2018,Common Shiner,56,5,Regional Watershed Monitoring Program
+271,DF014WM,Active,Duffins Creek,WEST DUFFINS CREEK,4868444,641828,17,2018,7/5/2018,Creek Chub,311,38,Regional Watershed Monitoring Program
+272,DF014WM,Active,Duffins Creek,WEST DUFFINS CREEK,4868444,641828,17,2018,7/5/2018,Johnny Darter,12,9,Regional Watershed Monitoring Program
+273,DF014WM,Active,Duffins Creek,WEST DUFFINS CREEK,4868444,641828,17,2018,7/5/2018,Longnose Dace,224,99,Regional Watershed Monitoring Program
+274,DF014WM,Active,Duffins Creek,WEST DUFFINS CREEK,4868444,641828,17,2018,7/5/2018,Rainbow Darter,2,1,Regional Watershed Monitoring Program
+275,DF015WM,Active,Duffins Creek,WEST DUFFINS CREEK,4868855,645297,17,2018,9/19/2018,Blacknose Dace,57,21,Regional Watershed Monitoring Program
+276,DF015WM,Active,Duffins Creek,WEST DUFFINS CREEK,4868855,645297,17,2018,9/19/2018,Brook Trout,4,1,Regional Watershed Monitoring Program
+277,DF015WM,Active,Duffins Creek,WEST DUFFINS CREEK,4868855,645297,17,2018,9/19/2018,Creek Chub,112,11,Regional Watershed Monitoring Program
+278,DF015WM,Active,Duffins Creek,WEST DUFFINS CREEK,4868855,645297,17,2018,9/19/2018,Longnose Dace,122,21,Regional Watershed Monitoring Program
+279,DF015WM,Active,Duffins Creek,WEST DUFFINS CREEK,4868855,645297,17,2018,9/19/2018,Mottled Sculpin,26,8,Regional Watershed Monitoring Program
+280,DF015WM,Active,Duffins Creek,WEST DUFFINS CREEK,4868855,645297,17,2018,9/19/2018,White Sucker,74,2,Regional Watershed Monitoring Program
+281,DF016WM,Active,Duffins Creek,WEST DUFFINS CREEK,4870442,643473,17,2018,8/27/2018,Blacknose Dace,104,24,Regional Watershed Monitoring Program
+282,DF016WM,Active,Duffins Creek,WEST DUFFINS CREEK,4870442,643473,17,2018,8/27/2018,Brook Trout,250,5,Regional Watershed Monitoring Program
+283,DF016WM,Active,Duffins Creek,WEST DUFFINS CREEK,4870442,643473,17,2018,8/27/2018,Creek Chub,137,10,Regional Watershed Monitoring Program
+284,DF016WM,Active,Duffins Creek,WEST DUFFINS CREEK,4870442,643473,17,2018,8/27/2018,Fathead Minnow,2,2,Regional Watershed Monitoring Program
+285,DF016WM,Active,Duffins Creek,WEST DUFFINS CREEK,4870442,643473,17,2018,8/27/2018,Mottled Sculpin,41,8,Regional Watershed Monitoring Program
+286,DF016WM,Active,Duffins Creek,WEST DUFFINS CREEK,4870442,643473,17,2018,8/27/2018,Pumpkinseed,0,1,Regional Watershed Monitoring Program
+287,DF017WM,Active,Duffins Creek,WEST DUFFINS CREEK,4872835,644304,17,2018,9/19/2018,Blacknose Dace,201,75,Regional Watershed Monitoring Program
+288,DF017WM,Active,Duffins Creek,WEST DUFFINS CREEK,4872835,644304,17,2018,9/19/2018,Brook Stickleback,2,6,Regional Watershed Monitoring Program
+289,DF017WM,Active,Duffins Creek,WEST DUFFINS CREEK,4872835,644304,17,2018,9/19/2018,Common Shiner,29,5,Regional Watershed Monitoring Program
+290,DF017WM,Active,Duffins Creek,WEST DUFFINS CREEK,4872835,644304,17,2018,9/19/2018,Creek Chub,460,69,Regional Watershed Monitoring Program
+291,DF017WM,Active,Duffins Creek,WEST DUFFINS CREEK,4872835,644304,17,2018,9/19/2018,Fathead Minnow,15,6,Regional Watershed Monitoring Program
+292,DF017WM,Active,Duffins Creek,WEST DUFFINS CREEK,4872835,644304,17,2018,9/19/2018,Pumpkinseed,9,1,Regional Watershed Monitoring Program
+293,DF017WM,Active,Duffins Creek,WEST DUFFINS CREEK,4872835,644304,17,2018,9/19/2018,White Sucker,311,6,Regional Watershed Monitoring Program
+320,DF51,Inactive,Duffins Creek,WEST DUFFINS CREEK,4860358,648340,17,2018,8/13/2018,Blacknose Dace,74,23,Project
+321,DF51,Inactive,Duffins Creek,WEST DUFFINS CREEK,4860358,648340,17,2018,8/13/2018,Brook Stickleback,1,1,Project
+322,DF51,Inactive,Duffins Creek,WEST DUFFINS CREEK,4860358,648340,17,2018,8/13/2018,Common Shiner,105,9,Project
+323,DF51,Inactive,Duffins Creek,WEST DUFFINS CREEK,4860358,648340,17,2018,8/13/2018,Creek Chub,23,18,Project
+324,DF51,Inactive,Duffins Creek,WEST DUFFINS CREEK,4860358,648340,17,2018,8/13/2018,Johnny Darter,6,4,Project
+325,DF51,Inactive,Duffins Creek,WEST DUFFINS CREEK,4860358,648340,17,2018,8/13/2018,Longnose Dace,234,117,Project
+326,DF51,Inactive,Duffins Creek,WEST DUFFINS CREEK,4860358,648340,17,2018,8/13/2018,Mottled Sculpin,0,1,Project
+327,DF51,Inactive,Duffins Creek,WEST DUFFINS CREEK,4860358,648340,17,2018,8/13/2018,Rainbow Darter,10,7,Project
+328,DF51,Inactive,Duffins Creek,WEST DUFFINS CREEK,4860358,648340,17,2018,8/13/2018,Smallmouth Bass,12,1,Project
+329,DF51,Inactive,Duffins Creek,WEST DUFFINS CREEK,4860358,648340,17,2018,8/13/2018,Stonecat,53,2,Project
+330,DF51,Inactive,Duffins Creek,WEST DUFFINS CREEK,4860358,648340,17,2018,8/13/2018,White Sucker,76,3,Project
+337,DNUP-2,Inactive,Duffins Creek,WEST DUFFINS CREEK,4864791,644009,17,2018,6/5/2018,Blacknose Dace,33,25,Project
+338,DNUP-2,Inactive,Duffins Creek,WEST DUFFINS CREEK,4864791,644009,17,2018,6/5/2018,Brook Stickleback,0,2,Project
+339,DNUP-2,Inactive,Duffins Creek,WEST DUFFINS CREEK,4864791,644009,17,2018,6/5/2018,Creek Chub,18,4,Project
+340,DNUP-3,Inactive,Duffins Creek,WEST DUFFINS CREEK,4862450,644636,17,2018,6/5/2018,Blacknose Dace,12,28,Project
+341,DNUP-3,Inactive,Duffins Creek,WEST DUFFINS CREEK,4862450,644636,17,2018,6/5/2018,Bluntnose Minnow,46,28,Project
+342,DNUP-3,Inactive,Duffins Creek,WEST DUFFINS CREEK,4862450,644636,17,2018,6/5/2018,Brook Stickleback,2,17,Project
+343,DNUP-3,Inactive,Duffins Creek,WEST DUFFINS CREEK,4862450,644636,17,2018,6/5/2018,Creek Chub,79,15,Project
+344,DNUP-3,Inactive,Duffins Creek,WEST DUFFINS CREEK,4862450,644636,17,2018,6/5/2018,Fathead Minnow,10,3,Project
+345,DNUP-3,Inactive,Duffins Creek,WEST DUFFINS CREEK,4862450,644636,17,2018,6/5/2018,Johnny Darter,4,2,Project
+346,DNUP-3,Inactive,Duffins Creek,WEST DUFFINS CREEK,4862450,644636,17,2018,6/5/2018,White Sucker,22,3,Project
+351,DNUP-5,Inactive,Duffins Creek,WEST DUFFINS CREEK,4867611,646081,17,2018,9/14/2018,Blacknose Dace,47,13,Project
+352,DNUP-5,Inactive,Duffins Creek,WEST DUFFINS CREEK,4867611,646081,17,2018,9/14/2018,Brook Trout,6,1,Project
+353,DNUP-5,Inactive,Duffins Creek,WEST DUFFINS CREEK,4867611,646081,17,2018,9/14/2018,Creek Chub,86,7,Project
+354,DNUP-5,Inactive,Duffins Creek,WEST DUFFINS CREEK,4867611,646081,17,2018,9/14/2018,Longnose Dace,6,1,Project
+355,DNUP-5,Inactive,Duffins Creek,WEST DUFFINS CREEK,4867611,646081,17,2018,9/14/2018,Mottled Sculpin,50,11,Project
+911,WD1,Active,Duffins Creek,WEST DUFFINS CREEK,4858346,651841,17,2018,8/14/2018,Blacknose Dace,131,40,Project
+912,WD1,Active,Duffins Creek,WEST DUFFINS CREEK,4858346,651841,17,2018,8/14/2018,Creek Chub,217,28,Project
+913,WD1,Active,Duffins Creek,WEST DUFFINS CREEK,4858346,651841,17,2018,8/14/2018,Johnny Darter,1,1,Project
+914,WD1,Active,Duffins Creek,WEST DUFFINS CREEK,4858346,651841,17,2018,8/14/2018,Longnose Dace,553,205,Project
+915,WD1,Active,Duffins Creek,WEST DUFFINS CREEK,4858346,651841,17,2018,8/14/2018,Rainbow Darter,5,2,Project
+916,WD1,Active,Duffins Creek,WEST DUFFINS CREEK,4858346,651841,17,2018,8/14/2018,White Sucker,36,12,Project
+954,WVD1,Inactive,Duffins Creek,WEST DUFFINS CREEK,4859736,649757,17,2018,7/25/2018,Blacknose Dace,54,13,Project
+955,WVD1,Inactive,Duffins Creek,WEST DUFFINS CREEK,4859736,649757,17,2018,7/25/2018,Creek Chub,27,9,Project
+956,WVD1,Inactive,Duffins Creek,WEST DUFFINS CREEK,4859736,649757,17,2018,7/25/2018,Longnose Dace,10,30,Project
+957,WVD1,Inactive,Duffins Creek,WEST DUFFINS CREEK,4859736,649757,17,2018,7/25/2018,Rainbow Trout,9,23,Project
+958,WVD1,Inactive,Duffins Creek,WEST DUFFINS CREEK,4859736,649757,17,2018,7/25/2018,White Sucker,7,9,Project
+12,AMBERLEA,Active,Frenchmans Bay,FRENCHMANS BAY,4853833,652754,17,2018,8/27/2018,Creek Chub,4,5,Project
+13,AMBERLEA,Active,Frenchmans Bay,FRENCHMANS BAY,4853833,652754,17,2018,8/27/2018,Largemouth Bass,34,4,Project
+14,AMBERLEA,Active,Frenchmans Bay,FRENCHMANS BAY,4853833,652754,17,2018,8/27/2018,Smallmouth Bass,47,5,Project
+112,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Bluegill,2,1,Project
+113,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Brown Bullhead,287,3,Project
+114,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Brown Bullhead,225,1,Project
+115,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Brown Bullhead,551,7,Project
+116,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Brown Bullhead,166,1,Project
+117,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Common Carp,4100,2,Project
+118,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Common Carp,5800,2,Project
+119,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Common Carp,38,1,Project
+120,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Common Shiner,18,1,Project
+121,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Gizzard Shad,9,1,Project
+122,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Golden Shiner,3,1,Project
+123,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Golden Shiner,11,3,Project
+124,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Golden Shiner,38,12,Project
+125,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Golden Shiner,2,1,Project
+126,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Largemouth Bass,45,7,Project
+127,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Largemouth Bass,4,1,Project
+128,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Largemouth Bass,21,3,Project
+129,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Largemouth Bass,6,1,Project
+130,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Largemouth Bass,13,2,Project
+131,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Largemouth Bass,18,1,Project
+132,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Largemouth Bass,14,3,Project
+133,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Pumpkinseed,199,4,Project
+134,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Pumpkinseed,17,3,Project
+135,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Pumpkinseed,108,4,Project
+136,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Pumpkinseed,33,4,Project
+137,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Pumpkinseed,231,4,Project
+138,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Pumpkinseed,10,1,Project
+139,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Yellow Perch,8,1,Project
+140,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Yellow Perch,128,3,Project
+141,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Yellow Perch,81,1,Project
+142,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Yellow Perch,8,1,Project
+143,CLOCA E-Fishing - Hydro Marsh,Inactive,Frenchmans Bay,FRENCHMANS BAY,4853124,654759,17,2018,9/5/2018,Yellow Perch,7,1,Project
+487,Lake Wilcox East Shore,Inactive,Humber River,EAST HUMBER,4867460,625995,17,2018,10/30/2018,Black Crappie,4,1,Project
+488,Lake Wilcox East Shore,Inactive,Humber River,EAST HUMBER,4867460,625995,17,2018,10/30/2018,Bluegill,63,2,Project
+489,Lake Wilcox East Shore,Inactive,Humber River,EAST HUMBER,4867460,625995,17,2018,10/30/2018,Largemouth Bass,418,7,Project
+490,Lake Wilcox East Shore,Inactive,Humber River,EAST HUMBER,4867460,625995,17,2018,10/30/2018,Northern Pike,630,3,Project
+491,Lake Wilcox East Shore,Inactive,Humber River,EAST HUMBER,4867460,625995,17,2018,10/30/2018,Pumpkinseed,489,27,Project
+492,Lake Wilcox East Shore,Inactive,Humber River,EAST HUMBER,4867460,625995,17,2018,10/30/2018,Rock Bass,149,5,Project
+493,Lake Wilcox East Shore,Inactive,Humber River,EAST HUMBER,4867460,625995,17,2018,10/30/2018,Yellow Perch,1075,47,Project
+494,Lake Wilcox East Shore,Inactive,Humber River,EAST HUMBER,4867460,625995,17,2018,7/12/2018,Bluegill,19,1,Project
+495,Lake Wilcox East Shore,Inactive,Humber River,EAST HUMBER,4867460,625995,17,2018,7/12/2018,Bowfin,1850,1,Project
+496,Lake Wilcox East Shore,Inactive,Humber River,EAST HUMBER,4867460,625995,17,2018,7/12/2018,Common Carp,850,1,Project
+497,Lake Wilcox East Shore,Inactive,Humber River,EAST HUMBER,4867460,625995,17,2018,7/12/2018,Largemouth Bass,48,2,Project
+498,Lake Wilcox East Shore,Inactive,Humber River,EAST HUMBER,4867460,625995,17,2018,7/12/2018,Pumpkinseed,72,3,Project
+499,Lake Wilcox East Shore,Inactive,Humber River,EAST HUMBER,4867460,625995,17,2018,7/12/2018,Yellow Perch,85,3,Project
+500,Lake Wilcox North Shore,Inactive,Humber River,EAST HUMBER,4867630,625307,17,2018,10/30/2018,Banded Killifish,2,1,Project
+501,Lake Wilcox North Shore,Inactive,Humber River,EAST HUMBER,4867630,625307,17,2018,10/30/2018,Bluegill,74,6,Project
+502,Lake Wilcox North Shore,Inactive,Humber River,EAST HUMBER,4867630,625307,17,2018,10/30/2018,Brown Bullhead,1053,5,Project
+503,Lake Wilcox North Shore,Inactive,Humber River,EAST HUMBER,4867630,625307,17,2018,10/30/2018,Central Mudminnow,6,1,Project
+504,Lake Wilcox North Shore,Inactive,Humber River,EAST HUMBER,4867630,625307,17,2018,10/30/2018,Common Carp,15,1,Project
+505,Lake Wilcox North Shore,Inactive,Humber River,EAST HUMBER,4867630,625307,17,2018,10/30/2018,Largemouth Bass,940,15,Project
+506,Lake Wilcox North Shore,Inactive,Humber River,EAST HUMBER,4867630,625307,17,2018,10/30/2018,Northern Pike,850,6,Project
+507,Lake Wilcox North Shore,Inactive,Humber River,EAST HUMBER,4867630,625307,17,2018,10/30/2018,Pumpkinseed,655,29,Project
+508,Lake Wilcox North Shore,Inactive,Humber River,EAST HUMBER,4867630,625307,17,2018,10/30/2018,Pumpkinseed x Bluegill,148,3,Project
+509,Lake Wilcox North Shore,Inactive,Humber River,EAST HUMBER,4867630,625307,17,2018,10/30/2018,Rock Bass,191,4,Project
+510,Lake Wilcox North Shore,Inactive,Humber River,EAST HUMBER,4867630,625307,17,2018,10/30/2018,Yellow Perch,357,16,Project
+511,Lake Wilcox North Shore,Inactive,Humber River,EAST HUMBER,4867630,625307,17,2018,7/12/2018,Brown Bullhead,375,1,Project
+512,Lake Wilcox North Shore,Inactive,Humber River,EAST HUMBER,4867630,625307,17,2018,7/12/2018,Largemouth Bass,450,1,Project
+513,Lake Wilcox North Shore,Inactive,Humber River,EAST HUMBER,4867630,625307,17,2018,7/12/2018,Pumpkinseed,90,3,Project
+514,Lake Wilcox North Shore,Inactive,Humber River,EAST HUMBER,4867630,625307,17,2018,7/12/2018,Rock Bass,53,1,Project
+515,Lake Wilcox North Shore,Inactive,Humber River,EAST HUMBER,4867630,625307,17,2018,7/12/2018,Yellow Perch,239,9,Project
+516,Lake Wilcox South Shore,Inactive,Humber River,EAST HUMBER,4867120,625401,17,2018,10/30/2018,Banded Killifish,2,2,Project
+517,Lake Wilcox South Shore,Inactive,Humber River,EAST HUMBER,4867120,625401,17,2018,10/30/2018,Bluegill,97,4,Project
+518,Lake Wilcox South Shore,Inactive,Humber River,EAST HUMBER,4867120,625401,17,2018,10/30/2018,Bowfin,198,1,Project
+519,Lake Wilcox South Shore,Inactive,Humber River,EAST HUMBER,4867120,625401,17,2018,10/30/2018,Brown Bullhead,81,1,Project
+520,Lake Wilcox South Shore,Inactive,Humber River,EAST HUMBER,4867120,625401,17,2018,10/30/2018,Common Carp,29,1,Project
+521,Lake Wilcox South Shore,Inactive,Humber River,EAST HUMBER,4867120,625401,17,2018,10/30/2018,Largemouth Bass,75,3,Project
+522,Lake Wilcox South Shore,Inactive,Humber River,EAST HUMBER,4867120,625401,17,2018,10/30/2018,Northern Pike,704,4,Project
+523,Lake Wilcox South Shore,Inactive,Humber River,EAST HUMBER,4867120,625401,17,2018,10/30/2018,Pumpkinseed,298,9,Project
+524,Lake Wilcox South Shore,Inactive,Humber River,EAST HUMBER,4867120,625401,17,2018,10/30/2018,Yellow Perch,59,4,Project
+525,Lake Wilcox South Shore,Inactive,Humber River,EAST HUMBER,4867120,625401,17,2018,7/12/2018,Bluegill,24,1,Project
+526,Lake Wilcox South Shore,Inactive,Humber River,EAST HUMBER,4867120,625401,17,2018,7/12/2018,Common Carp,800,1,Project
+527,Lake Wilcox South Shore,Inactive,Humber River,EAST HUMBER,4867120,625401,17,2018,7/12/2018,Largemouth Bass,850,1,Project
+528,Lake Wilcox South Shore,Inactive,Humber River,EAST HUMBER,4867120,625401,17,2018,7/12/2018,Northern Pike,1050,1,Project
+529,Lake Wilcox South Shore,Inactive,Humber River,EAST HUMBER,4867120,625401,17,2018,7/12/2018,Pumpkinseed,65,3,Project
+530,Lake Wilcox South Shore,Inactive,Humber River,EAST HUMBER,4867120,625401,17,2018,7/12/2018,Rock Bass,104,2,Project
+531,Lake Wilcox South Shore,Inactive,Humber River,EAST HUMBER,4867120,625401,17,2018,7/12/2018,White Sucker,35,1,Project
+532,Lake Wilcox South Shore,Inactive,Humber River,EAST HUMBER,4867120,625401,17,2018,7/12/2018,Yellow Perch,246,8,Project
+533,Lake Wilcox West Shore,Inactive,Humber River,EAST HUMBER,4867200,624980,17,2018,10/30/2018,Banded Killifish,1,1,Project
+534,Lake Wilcox West Shore,Inactive,Humber River,EAST HUMBER,4867200,624980,17,2018,10/30/2018,Bluegill,54,2,Project
+535,Lake Wilcox West Shore,Inactive,Humber River,EAST HUMBER,4867200,624980,17,2018,10/30/2018,Common Carp,60,1,Project
+536,Lake Wilcox West Shore,Inactive,Humber River,EAST HUMBER,4867200,624980,17,2018,10/30/2018,Largemouth Bass,871,8,Project
+537,Lake Wilcox West Shore,Inactive,Humber River,EAST HUMBER,4867200,624980,17,2018,10/30/2018,Northern Pike,900,5,Project
+538,Lake Wilcox West Shore,Inactive,Humber River,EAST HUMBER,4867200,624980,17,2018,10/30/2018,Pumpkinseed,518,19,Project
+539,Lake Wilcox West Shore,Inactive,Humber River,EAST HUMBER,4867200,624980,17,2018,10/30/2018,Pumpkinseed x Bluegill,36,1,Project
+540,Lake Wilcox West Shore,Inactive,Humber River,EAST HUMBER,4867200,624980,17,2018,10/30/2018,Rock Bass,23,1,Project
+541,Lake Wilcox West Shore,Inactive,Humber River,EAST HUMBER,4867200,624980,17,2018,10/30/2018,Yellow Perch,322,8,Project
+542,Lake Wilcox West Shore,Inactive,Humber River,EAST HUMBER,4867200,624980,17,2018,7/12/2018,Black Crappie,62,1,Project
+543,Lake Wilcox West Shore,Inactive,Humber River,EAST HUMBER,4867200,624980,17,2018,7/12/2018,Bluegill,27,1,Project
+544,Lake Wilcox West Shore,Inactive,Humber River,EAST HUMBER,4867200,624980,17,2018,7/12/2018,Bowfin,2700,2,Project
+545,Lake Wilcox West Shore,Inactive,Humber River,EAST HUMBER,4867200,624980,17,2018,7/12/2018,Brown Bullhead,79,1,Project
+546,Lake Wilcox West Shore,Inactive,Humber River,EAST HUMBER,4867200,624980,17,2018,7/12/2018,Common Carp,7550,4,Project
+547,Lake Wilcox West Shore,Inactive,Humber River,EAST HUMBER,4867200,624980,17,2018,7/12/2018,Largemouth Bass,72,3,Project
+548,Lake Wilcox West Shore,Inactive,Humber River,EAST HUMBER,4867200,624980,17,2018,7/12/2018,Pumpkinseed,39,2,Project
+549,Lake Wilcox West Shore,Inactive,Humber River,EAST HUMBER,4867200,624980,17,2018,7/12/2018,Yellow Perch,202,7,Project
+407,HB-SCAR1,Active,Humber River,LOWER HUMBER,4837470,620459,17,2018,9/21/2018,Bluntnose Minnow,3,1,Project
+408,HB-SCAR1,Active,Humber River,LOWER HUMBER,4837470,620459,17,2018,9/21/2018,Central Stoneroller,9,1,Project
+409,HB-SCAR1,Active,Humber River,LOWER HUMBER,4837470,620459,17,2018,9/21/2018,Common Carp,162,4,Project
+410,HB-SCAR1,Active,Humber River,LOWER HUMBER,4837470,620459,17,2018,9/21/2018,Common Shiner,99,77,Project
+411,HB-SCAR1,Active,Humber River,LOWER HUMBER,4837470,620459,17,2018,9/21/2018,Creek Chub,92,8,Project
+412,HB-SCAR1,Active,Humber River,LOWER HUMBER,4837470,620459,17,2018,9/21/2018,Cyprinidae,0,3,Project
+413,HB-SCAR1,Active,Humber River,LOWER HUMBER,4837470,620459,17,2018,9/21/2018,Fantail Darter,4,2,Project
+414,HB-SCAR1,Active,Humber River,LOWER HUMBER,4837470,620459,17,2018,9/21/2018,Green Sunfish,9,12,Project
+415,HB-SCAR1,Active,Humber River,LOWER HUMBER,4837470,620459,17,2018,9/21/2018,Hornyhead Chub,270,21,Project
+416,HB-SCAR1,Active,Humber River,LOWER HUMBER,4837470,620459,17,2018,9/21/2018,Johnny Darter,1,1,Project
+417,HB-SCAR1,Active,Humber River,LOWER HUMBER,4837470,620459,17,2018,9/21/2018,Longnose Dace,856,164,Project
+418,HB-SCAR1,Active,Humber River,LOWER HUMBER,4837470,620459,17,2018,9/21/2018,Rainbow Darter,3,1,Project
+419,HB-SCAR1,Active,Humber River,LOWER HUMBER,4837470,620459,17,2018,9/21/2018,River Chub,182,4,Project
+420,HB-SCAR1,Active,Humber River,LOWER HUMBER,4837470,620459,17,2018,9/21/2018,Rock Bass,10,1,Project
+421,HB-SCAR1,Active,Humber River,LOWER HUMBER,4837470,620459,17,2018,9/21/2018,Stonecat,156,8,Project
+422,HB-SCAR1,Active,Humber River,LOWER HUMBER,4837470,620459,17,2018,9/21/2018,White Sucker,469,62,Project
+466,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,10/22/2018,Common Shiner,37,4,Project
+467,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,10/22/2018,Emerald Shiner,71,15,Project
+468,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,10/22/2018,Fathead Minnow,2,1,Project
+469,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,10/22/2018,Gizzard Shad,455,7,Project
+470,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,10/22/2018,Golden Shiner,69,4,Project
+471,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,10/22/2018,Northern Pike,1700,1,Project
+472,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,10/22/2018,Spottail Shiner,53,6,Project
+473,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,10/22/2018,White Sucker,729,12,Project
+474,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,10/22/2018,Yellow Perch,158,1,Project
+475,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,7/23/2018,Brown Bullhead,3,1,Project
+476,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,7/23/2018,Common Shiner,56,7,Project
+477,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,7/23/2018,Gizzard Shad,2450,2,Project
+478,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,7/23/2018,Northern Pike,1900,1,Project
+479,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,7/23/2018,Pumpkinseed,42,1,Project
+480,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,7/23/2018,Rosyface Shiner,1,1,Project
+481,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,7/23/2018,Walleye,200,1,Project
+482,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,5/17/2018,Common Carp,7800,1,Project
+483,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,5/17/2018,Common Shiner,6,1,Project
+484,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,5/17/2018,Gizzard Shad,5350,4,Project
+485,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,5/17/2018,Walleye,1300,1,Project
+486,Humber River Estuary - North Of Qew,Inactive,Humber River,LOWER HUMBER,4832370,622990,17,2018,5/17/2018,White Sucker,9100,11,Project
+1,AH-POND,Active,Humber River,MAIN HUMBER,4864553,593619,17,2018,8/3/2018,Blacknose Dace,81,15,Project
+2,AH-POND,Active,Humber River,MAIN HUMBER,4864553,593619,17,2018,8/3/2018,Bluntnose Minnow,7,1,Project
+3,AH-POND,Active,Humber River,MAIN HUMBER,4864553,593619,17,2018,8/3/2018,Common Shiner,20,4,Project
+4,AH-POND,Active,Humber River,MAIN HUMBER,4864553,593619,17,2018,8/3/2018,Creek Chub,592,34,Project
+5,AH-POND,Active,Humber River,MAIN HUMBER,4864553,593619,17,2018,8/3/2018,Fantail Darter,5,1,Project
+6,AH-POND,Active,Humber River,MAIN HUMBER,4864553,593619,17,2018,8/3/2018,Johnny Darter,96,56,Project
+7,AH-POND,Active,Humber River,MAIN HUMBER,4864553,593619,17,2018,8/3/2018,Largemouth Bass,5,3,Project
+8,AH-POND,Active,Humber River,MAIN HUMBER,4864553,593619,17,2018,8/3/2018,Longnose Dace,1,1,Project
+9,AH-POND,Active,Humber River,MAIN HUMBER,4864553,593619,17,2018,8/3/2018,Northern Hog Sucker,137,4,Project
+10,AH-POND,Active,Humber River,MAIN HUMBER,4864553,593619,17,2018,8/3/2018,Rainbow Darter,3,1,Project
+11,AH-POND,Active,Humber River,MAIN HUMBER,4864553,593619,17,2018,8/3/2018,White Sucker,369,22,Project
+396,HB-BC1,Active,Humber River,MAIN HUMBER,4860729,602623,17,2018,9/12/2018,American Brook Lamprey,23,2,Project
+397,HB-BC1,Active,Humber River,MAIN HUMBER,4860729,602623,17,2018,9/12/2018,Blacknose Dace,41,12,Project
+398,HB-BC1,Active,Humber River,MAIN HUMBER,4860729,602623,17,2018,9/12/2018,Brown Trout,8,1,Project
+399,HB-BC1,Active,Humber River,MAIN HUMBER,4860729,602623,17,2018,9/12/2018,Creek Chub,30,11,Project
+400,HB-BC1,Active,Humber River,MAIN HUMBER,4860729,602623,17,2018,9/12/2018,Largemouth Bass,2,1,Project
+401,HB-BC1,Active,Humber River,MAIN HUMBER,4860729,602623,17,2018,9/12/2018,Longnose Dace,410,128,Project
+402,HB-BC1,Active,Humber River,MAIN HUMBER,4860729,602623,17,2018,9/12/2018,Mottled Sculpin,267,174,Project
+403,HB-BC1,Active,Humber River,MAIN HUMBER,4860729,602623,17,2018,9/12/2018,White Sucker,27,6,Project
+437,HU-EF3,Active,Humber River,MAIN HUMBER,4850189,611296,17,2018,5/25/2018,Blacknose Dace,142,57,Project
+438,HU-EF3,Active,Humber River,MAIN HUMBER,4850189,611296,17,2018,5/25/2018,Bluntnose Minnow,63,20,Project
+439,HU-EF3,Active,Humber River,MAIN HUMBER,4850189,611296,17,2018,5/25/2018,Brook Stickleback,4,5,Project
+440,HU-EF3,Active,Humber River,MAIN HUMBER,4850189,611296,17,2018,5/25/2018,Central Stoneroller,25,4,Project
+441,HU-EF3,Active,Humber River,MAIN HUMBER,4850189,611296,17,2018,5/25/2018,Common Shiner,143,30,Project
+442,HU-EF3,Active,Humber River,MAIN HUMBER,4850189,611296,17,2018,5/25/2018,Creek Chub,475,40,Project
+443,HU-EF3,Active,Humber River,MAIN HUMBER,4850189,611296,17,2018,5/25/2018,Fathead Minnow,3,1,Project
+444,HU-EF3,Active,Humber River,MAIN HUMBER,4850189,611296,17,2018,5/25/2018,Johnny Darter,64,67,Project
+445,HU-EF3,Active,Humber River,MAIN HUMBER,4850189,611296,17,2018,5/25/2018,Rock Bass,69,4,Project
+446,HU-EF3,Active,Humber River,MAIN HUMBER,4850189,611296,17,2018,5/25/2018,White Sucker,70,3,Project
+15,BHVL-WH2,Active,Humber River,WEST HUMBER,4847209,607136,17,2018,11/21/2018,Blacknose Dace,17,9,Project
+16,BHVL-WH2,Active,Humber River,WEST HUMBER,4847209,607136,17,2018,11/21/2018,Fathead Minnow,5,5,Project
+17,BHVL-WH2,Active,Humber River,WEST HUMBER,4847209,607136,17,2018,11/21/2018,Johnny Darter,4,4,Project
+18,BHVL-WH2,Active,Humber River,WEST HUMBER,4847209,607136,17,2018,11/21/2018,White Sucker,11,3,Project
+404,HB-PP01,Active,Humber River,WEST HUMBER,4856373,596814,17,2018,12/3/2018,Brook Stickleback,7,11,Project
+405,HB-PP01,Active,Humber River,WEST HUMBER,4856373,596814,17,2018,12/3/2018,Creek Chub,47,17,Project
+406,HB-PP01,Active,Humber River,WEST HUMBER,4856373,596814,17,2018,12/3/2018,Fathead Minnow,2,1,Project
+19,Bren Road Sanitary Infrastructure Protection,Inactive,Mimico Creek,MIMICO CREEK,4840183,608103,17,2018,5/11/2018,Creek Chub,3,3,Project
+20,Bren Road Sanitary Infrastructure Protection,Inactive,Mimico Creek,MIMICO CREEK,4840183,608103,17,2018,5/11/2018,Fathead Minnow,6,2,Project
+21,Bren Road Sanitary Infrastructure Protection,Inactive,Mimico Creek,MIMICO CREEK,4840183,608103,17,2018,5/7/2018,Bluntnose Minnow,2,1,Project
+22,Bren Road Sanitary Infrastructure Protection,Inactive,Mimico Creek,MIMICO CREEK,4840183,608103,17,2018,5/7/2018,Creek Chub,50,1,Project
+23,Bren Road Sanitary Infrastructure Protection,Inactive,Mimico Creek,MIMICO CREEK,4840183,608103,17,2018,5/7/2018,Fathead Minnow,19,15,Project
+24,Bren Road Sanitary Infrastructure Protection,Inactive,Mimico Creek,MIMICO CREEK,4840183,608103,17,2018,4/27/2018,Brook Stickleback,2,2,Project
+25,Bren Road Sanitary Infrastructure Protection,Inactive,Mimico Creek,MIMICO CREEK,4840183,608103,17,2018,4/27/2018,Creek Chub,127,25,Project
+26,Bren Road Sanitary Infrastructure Protection,Inactive,Mimico Creek,MIMICO CREEK,4840183,608103,17,2018,4/27/2018,Fathead Minnow,12,12,Project
+27,Bren Road Sanitary Infrastructure Protection,Inactive,Mimico Creek,MIMICO CREEK,4840183,608103,17,2018,4/23/2018,Creek Chub,29,7,Project
+28,Bren Road Sanitary Infrastructure Protection,Inactive,Mimico Creek,MIMICO CREEK,4840183,608103,17,2018,4/23/2018,Creek Chub,5,3,Project
+29,Bren Road Sanitary Infrastructure Protection,Inactive,Mimico Creek,MIMICO CREEK,4840183,608103,17,2018,4/23/2018,Fathead Minnow,4,2,Project
+30,Bren Road Sanitary Infrastructure Protection,Inactive,Mimico Creek,MIMICO CREEK,4840183,608103,17,2018,4/5/2018,Fathead Minnow,2,2,Project
+31,Bren Road Sanitary Infrastructure Protection,Inactive,Mimico Creek,MIMICO CREEK,4840183,608103,17,2018,2/28/2018,Fathead Minnow,16,11,Project
+675,RG001WM,Active,Rouge River,LITTLE ROUGE,4852836,648444,17,2018,6/8/2018,Blacknose Dace,73,19,Regional Watershed Monitoring Program
+676,RG001WM,Active,Rouge River,LITTLE ROUGE,4852836,648444,17,2018,6/8/2018,Catostomidae,0,3,Regional Watershed Monitoring Program
+677,RG001WM,Active,Rouge River,LITTLE ROUGE,4852836,648444,17,2018,6/8/2018,Central Stoneroller,129,20,Regional Watershed Monitoring Program
+678,RG001WM,Active,Rouge River,LITTLE ROUGE,4852836,648444,17,2018,6/8/2018,Common Shiner,14,3,Regional Watershed Monitoring Program
+679,RG001WM,Active,Rouge River,LITTLE ROUGE,4852836,648444,17,2018,6/8/2018,Creek Chub,118,3,Regional Watershed Monitoring Program
+680,RG001WM,Active,Rouge River,LITTLE ROUGE,4852836,648444,17,2018,6/8/2018,Logperch,22,2,Regional Watershed Monitoring Program
+681,RG001WM,Active,Rouge River,LITTLE ROUGE,4852836,648444,17,2018,6/8/2018,Longnose Dace,263,70,Regional Watershed Monitoring Program
+682,RG001WM,Active,Rouge River,LITTLE ROUGE,4852836,648444,17,2018,6/8/2018,Pumpkinseed,14,1,Regional Watershed Monitoring Program
+683,RG001WM,Active,Rouge River,LITTLE ROUGE,4852836,648444,17,2018,6/8/2018,Rainbow Darter,99,40,Regional Watershed Monitoring Program
+684,RG001WM,Active,Rouge River,LITTLE ROUGE,4852836,648444,17,2018,6/8/2018,Stonecat,18,4,Regional Watershed Monitoring Program
+685,RG001WM,Active,Rouge River,LITTLE ROUGE,4852836,648444,17,2018,6/8/2018,White Sucker,42,7,Regional Watershed Monitoring Program
+721,RG007WM,Active,Rouge River,LITTLE ROUGE,4857814,644266,17,2018,6/28/2018,Blacknose Dace,21,10,Regional Watershed Monitoring Program
+722,RG007WM,Active,Rouge River,LITTLE ROUGE,4857814,644266,17,2018,6/28/2018,Bluntnose Minnow,5,1,Regional Watershed Monitoring Program
+723,RG007WM,Active,Rouge River,LITTLE ROUGE,4857814,644266,17,2018,6/28/2018,Central Stoneroller,29,9,Regional Watershed Monitoring Program
+724,RG007WM,Active,Rouge River,LITTLE ROUGE,4857814,644266,17,2018,6/28/2018,Common Shiner,7,2,Regional Watershed Monitoring Program
+725,RG007WM,Active,Rouge River,LITTLE ROUGE,4857814,644266,17,2018,6/28/2018,Creek Chub,6,2,Regional Watershed Monitoring Program
+726,RG007WM,Active,Rouge River,LITTLE ROUGE,4857814,644266,17,2018,6/28/2018,Hornyhead Chub,26,9,Regional Watershed Monitoring Program
+727,RG007WM,Active,Rouge River,LITTLE ROUGE,4857814,644266,17,2018,6/28/2018,Johnny Darter,2,1,Regional Watershed Monitoring Program
+728,RG007WM,Active,Rouge River,LITTLE ROUGE,4857814,644266,17,2018,6/28/2018,Longnose Dace,66,22,Regional Watershed Monitoring Program
+729,RG007WM,Active,Rouge River,LITTLE ROUGE,4857814,644266,17,2018,6/28/2018,Pumpkinseed,11,1,Regional Watershed Monitoring Program
+730,RG007WM,Active,Rouge River,LITTLE ROUGE,4857814,644266,17,2018,6/28/2018,Rainbow Darter,71,40,Regional Watershed Monitoring Program
+731,RG007WM,Active,Rouge River,LITTLE ROUGE,4857814,644266,17,2018,6/28/2018,Rainbow Trout,10,1,Regional Watershed Monitoring Program
+732,RG007WM,Active,Rouge River,LITTLE ROUGE,4857814,644266,17,2018,6/28/2018,White Sucker,1,10,Regional Watershed Monitoring Program
+753,RG011WM,Active,Rouge River,LITTLE ROUGE,4863599,640710,17,2018,10/19/2018,Blacknose Dace,0,4,Regional Watershed Monitoring Program
+754,RG011WM,Active,Rouge River,LITTLE ROUGE,4863599,640710,17,2018,10/19/2018,Bluntnose Minnow,1,11,Regional Watershed Monitoring Program
+755,RG011WM,Active,Rouge River,LITTLE ROUGE,4863599,640710,17,2018,10/19/2018,Central Stoneroller,4,4,Regional Watershed Monitoring Program
+756,RG011WM,Active,Rouge River,LITTLE ROUGE,4863599,640710,17,2018,10/19/2018,Common Shiner,0,1,Regional Watershed Monitoring Program
+757,RG011WM,Active,Rouge River,LITTLE ROUGE,4863599,640710,17,2018,10/19/2018,Creek Chub,2,1,Regional Watershed Monitoring Program
+758,RG011WM,Active,Rouge River,LITTLE ROUGE,4863599,640710,17,2018,10/19/2018,Johnny Darter,27,30,Regional Watershed Monitoring Program
+759,RG011WM,Active,Rouge River,LITTLE ROUGE,4863599,640710,17,2018,10/19/2018,Rainbow Darter,3,6,Regional Watershed Monitoring Program
+760,RG011WM,Active,Rouge River,LITTLE ROUGE,4863599,640710,17,2018,10/19/2018,Rock Bass,2,1,Regional Watershed Monitoring Program
+761,RG011WM,Active,Rouge River,LITTLE ROUGE,4863599,640710,17,2018,10/19/2018,White Sucker,2,1,Regional Watershed Monitoring Program
+762,RG012WMb,Active,Rouge River,LITTLE ROUGE,4866989,637672,17,2018,9/28/2018,Blacknose Dace,61,28,Regional Watershed Monitoring Program
+763,RG012WMb,Active,Rouge River,LITTLE ROUGE,4866989,637672,17,2018,9/28/2018,Central Stoneroller,19,8,Regional Watershed Monitoring Program
+764,RG012WMb,Active,Rouge River,LITTLE ROUGE,4866989,637672,17,2018,9/28/2018,Common Shiner,3,3,Regional Watershed Monitoring Program
+765,RG012WMb,Active,Rouge River,LITTLE ROUGE,4866989,637672,17,2018,9/28/2018,Creek Chub,145,16,Regional Watershed Monitoring Program
+766,RG012WMb,Active,Rouge River,LITTLE ROUGE,4866989,637672,17,2018,9/28/2018,Johnny Darter,6,6,Regional Watershed Monitoring Program
+767,RG012WMb,Active,Rouge River,LITTLE ROUGE,4866989,637672,17,2018,9/28/2018,Longnose Dace,132,42,Regional Watershed Monitoring Program
+768,RG012WMb,Active,Rouge River,LITTLE ROUGE,4866989,637672,17,2018,9/28/2018,Mottled Sculpin,50,12,Regional Watershed Monitoring Program
+769,RG012WMb,Active,Rouge River,LITTLE ROUGE,4866989,637672,17,2018,9/28/2018,Rainbow Darter,15,22,Regional Watershed Monitoring Program
+770,RG012WMb,Active,Rouge River,LITTLE ROUGE,4866989,637672,17,2018,9/28/2018,White Sucker,12,4,Regional Watershed Monitoring Program
+864,RNUP-1,Active,Rouge River,LITTLE ROUGE,4866673,639458,17,2018,1/6/2018,Brook Stickleback,1,1,Project
+865,RNUP-3,Active,Rouge River,LITTLE ROUGE,4863370,642462,17,2018,8/28/2018,Blacknose Dace,14,15,Project
+866,RNUP-3,Active,Rouge River,LITTLE ROUGE,4863370,642462,17,2018,8/28/2018,Central Stoneroller,2,8,Project
+867,RNUP-3,Active,Rouge River,LITTLE ROUGE,4863370,642462,17,2018,8/28/2018,Common Shiner,5,23,Project
+868,RNUP-3,Active,Rouge River,LITTLE ROUGE,4863370,642462,17,2018,8/28/2018,Creek Chub,16,-79,Project
+869,RNUP-3,Active,Rouge River,LITTLE ROUGE,4863370,642462,17,2018,8/28/2018,Johnny Darter,1,8,Project
+870,RNUP-3,Active,Rouge River,LITTLE ROUGE,4863370,642462,17,2018,8/28/2018,Longnose Dace,2,3,Project
+871,RNUP-3,Active,Rouge River,LITTLE ROUGE,4863370,642462,17,2018,8/28/2018,Mimic Shiner,0,1,Project
+872,RNUP-3,Active,Rouge River,LITTLE ROUGE,4863370,642462,17,2018,8/28/2018,Rainbow Darter,4,4,Project
+873,RNUP-3,Active,Rouge River,LITTLE ROUGE,4863370,642462,17,2018,8/28/2018,White Sucker,1,1,Project
+874,RNUP-5,Active,Rouge River,LITTLE ROUGE,4864415,642439,17,2018,9/27/2018,Blacknose Dace,54,20,Project
+875,RNUP-5,Active,Rouge River,LITTLE ROUGE,4864415,642439,17,2018,9/27/2018,Brook Stickleback,0,2,Project
+876,RNUP-5,Active,Rouge River,LITTLE ROUGE,4864415,642439,17,2018,9/27/2018,Central Stoneroller,11,7,Project
+877,RNUP-5,Active,Rouge River,LITTLE ROUGE,4864415,642439,17,2018,9/27/2018,Creek Chub,74,43,Project
+878,RNUP-5,Active,Rouge River,LITTLE ROUGE,4864415,642439,17,2018,9/27/2018,Fathead Minnow,4,3,Project
+879,RNUP-5,Active,Rouge River,LITTLE ROUGE,4864415,642439,17,2018,9/27/2018,Rainbow Darter,5,2,Project
+880,RNUP-5,Active,Rouge River,LITTLE ROUGE,4864415,642439,17,2018,9/27/2018,White Sucker,1,2,Project
+881,RNUP-6,Active,Rouge River,LITTLE ROUGE,4865354,642233,17,2018,10/5/2018,Blacknose Dace,60,45,Project
+882,RNUP-6,Active,Rouge River,LITTLE ROUGE,4865354,642233,17,2018,10/5/2018,Brook Stickleback,2,2,Project
+883,RNUP-6,Active,Rouge River,LITTLE ROUGE,4865354,642233,17,2018,10/5/2018,Central Stoneroller,54,19,Project
+884,RNUP-6,Active,Rouge River,LITTLE ROUGE,4865354,642233,17,2018,10/5/2018,Creek Chub,25,17,Project
+885,RNUP-6,Active,Rouge River,LITTLE ROUGE,4865354,642233,17,2018,10/5/2018,Fathead Minnow,4,6,Project
+886,RNUP-6,Active,Rouge River,LITTLE ROUGE,4865354,642233,17,2018,10/5/2018,White Sucker,3,3,Project
+887,RNUP-7,Active,Rouge River,LITTLE ROUGE,4865857,640013,17,2018,8/20/2018,Blacknose Dace,1,1,Project
+144,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Black Crappie,9,1,Project
+145,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Bluegill,17,1,Project
+146,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Bluegill,2,2,Project
+147,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Brown Bullhead,87,2,Project
+148,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Brown Bullhead,11,1,Project
+149,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Brown Bullhead,219,3,Project
+150,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Common Carp,208,2,Project
+151,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Emerald Shiner,4,9,Project
+152,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Hornyhead Chub,2,1,Project
+153,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Largemouth Bass,32,2,Project
+154,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Largemouth Bass,58,3,Project
+155,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Largemouth Bass,9,1,Project
+156,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Largemouth Bass,15,1,Project
+157,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Northern Pike,919,2,Project
+158,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Pumpkinseed,4,2,Project
+159,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Pumpkinseed,6,2,Project
+160,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Pumpkinseed,207,4,Project
+161,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Pumpkinseed,44,1,Project
+162,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Pumpkinseed,5,2,Project
+163,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Rock Bass,5,3,Project
+164,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Rock Bass,4,3,Project
+165,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Rock Bass,80,1,Project
+166,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Yellow Perch,46,3,Project
+167,CLOCA E-Fishing - Rouge,Inactive,Rouge River,LOWER ROUGE,4850876,651070,17,2018,9/14/2018,Yellow Perch,4,1,Project
+686,RG002WM,Active,Rouge River,LOWER ROUGE,4852459,648000,17,2018,6/21/2018,Blacknose Dace,2,1,Regional Watershed Monitoring Program
+687,RG002WM,Active,Rouge River,LOWER ROUGE,4852459,648000,17,2018,6/21/2018,Creek Chub,95,3,Regional Watershed Monitoring Program
+688,RG002WM,Active,Rouge River,LOWER ROUGE,4852459,648000,17,2018,6/21/2018,Longnose Dace,499,101,Regional Watershed Monitoring Program
+689,RG002WM,Active,Rouge River,LOWER ROUGE,4852459,648000,17,2018,6/21/2018,Rainbow Darter,44,21,Regional Watershed Monitoring Program
+690,RG002WM,Active,Rouge River,LOWER ROUGE,4852459,648000,17,2018,6/21/2018,Smallmouth Bass,1,2,Regional Watershed Monitoring Program
+691,RG002WM,Active,Rouge River,LOWER ROUGE,4852459,648000,17,2018,6/21/2018,Stonecat,70,10,Regional Watershed Monitoring Program
+692,RG002WM,Active,Rouge River,LOWER ROUGE,4852459,648000,17,2018,6/21/2018,White Sucker,1,7,Regional Watershed Monitoring Program
+693,RG003WM,Active,Rouge River,LOWER ROUGE,4852365,645356,17,2018,9/27/2018,Blacknose Dace,32,9,Regional Watershed Monitoring Program
+694,RG003WM,Active,Rouge River,LOWER ROUGE,4852365,645356,17,2018,9/27/2018,Brook Stickleback,4,2,Regional Watershed Monitoring Program
+695,RG003WM,Active,Rouge River,LOWER ROUGE,4852365,645356,17,2018,9/27/2018,Creek Chub,239,14,Regional Watershed Monitoring Program
+696,RG003WM,Active,Rouge River,LOWER ROUGE,4852365,645356,17,2018,9/27/2018,Longnose Dace,220,75,Regional Watershed Monitoring Program
+697,RG003WM,Active,Rouge River,LOWER ROUGE,4852365,645356,17,2018,9/27/2018,White Sucker,31,1,Regional Watershed Monitoring Program
+698,RG004WM,Active,Rouge River,LOWER ROUGE,4853485,643450,17,2018,9/6/2018,Blacknose Dace,63,19,Regional Watershed Monitoring Program
+699,RG004WM,Active,Rouge River,LOWER ROUGE,4853485,643450,17,2018,9/6/2018,Bluntnose Minnow,13,2,Regional Watershed Monitoring Program
+700,RG004WM,Active,Rouge River,LOWER ROUGE,4853485,643450,17,2018,9/6/2018,Brook Stickleback,1,8,Regional Watershed Monitoring Program
+701,RG004WM,Active,Rouge River,LOWER ROUGE,4853485,643450,17,2018,9/6/2018,Creek Chub,249,30,Regional Watershed Monitoring Program
+702,RG004WM,Active,Rouge River,LOWER ROUGE,4853485,643450,17,2018,9/6/2018,Fathead Minnow,2,1,Regional Watershed Monitoring Program
+703,RG004WM,Active,Rouge River,LOWER ROUGE,4853485,643450,17,2018,9/6/2018,Johnny Darter,6,8,Regional Watershed Monitoring Program
+704,RG004WM,Active,Rouge River,LOWER ROUGE,4853485,643450,17,2018,9/6/2018,Longnose Dace,43,17,Regional Watershed Monitoring Program
+705,RG005WM,Active,Rouge River,LOWER ROUGE,4855519,641533,17,2018,11/13/2018,Blacknose Dace,135,42,Regional Watershed Monitoring Program
+706,RG005WM,Active,Rouge River,LOWER ROUGE,4855519,641533,17,2018,11/13/2018,Brook Stickleback,5,5,Regional Watershed Monitoring Program
+707,RG005WM,Active,Rouge River,LOWER ROUGE,4855519,641533,17,2018,11/13/2018,Brown Bullhead,7,1,Regional Watershed Monitoring Program
+708,RG005WM,Active,Rouge River,LOWER ROUGE,4855519,641533,17,2018,11/13/2018,Creek Chub,377,105,Regional Watershed Monitoring Program
+709,RG005WM,Active,Rouge River,LOWER ROUGE,4855519,641533,17,2018,11/13/2018,Fathead Minnow,318,132,Regional Watershed Monitoring Program
+710,RG005WM,Active,Rouge River,LOWER ROUGE,4855519,641533,17,2018,11/13/2018,Johnny Darter,20,16,Regional Watershed Monitoring Program
+711,RG005WM,Active,Rouge River,LOWER ROUGE,4855519,641533,17,2018,11/13/2018,Longnose Dace,38,14,Regional Watershed Monitoring Program
+712,RG005WM,Active,Rouge River,LOWER ROUGE,4855519,641533,17,2018,11/13/2018,White Sucker,428,16,Regional Watershed Monitoring Program
+713,RG006WM,Active,Rouge River,LOWER ROUGE,4854280,644753,17,2018,6/15/2018,Blacknose Dace,1,3,Regional Watershed Monitoring Program
+714,RG006WM,Active,Rouge River,LOWER ROUGE,4854280,644753,17,2018,6/15/2018,Bluntnose Minnow,19,13,Regional Watershed Monitoring Program
+715,RG006WM,Active,Rouge River,LOWER ROUGE,4854280,644753,17,2018,6/15/2018,Creek Chub,34,5,Regional Watershed Monitoring Program
+716,RG006WM,Active,Rouge River,LOWER ROUGE,4854280,644753,17,2018,6/15/2018,Longnose Dace,122,25,Regional Watershed Monitoring Program
+717,RG006WM,Active,Rouge River,LOWER ROUGE,4854280,644753,17,2018,6/15/2018,Rainbow Darter,34,17,Regional Watershed Monitoring Program
+718,RG006WM,Active,Rouge River,LOWER ROUGE,4854280,644753,17,2018,6/15/2018,Salmon & Trout subfamily,3,2,Regional Watershed Monitoring Program
+719,RG006WM,Active,Rouge River,LOWER ROUGE,4854280,644753,17,2018,6/15/2018,Stonecat,51,3,Regional Watershed Monitoring Program
+720,RG006WM,Active,Rouge River,LOWER ROUGE,4854280,644753,17,2018,6/15/2018,White Sucker,2,20,Regional Watershed Monitoring Program
+733,RG009WM,Active,Rouge River,LOWER ROUGE,4858865,640609,17,2018,6/14/2018,Blacknose Dace,2,55,Regional Watershed Monitoring Program
+734,RG009WM,Active,Rouge River,LOWER ROUGE,4858865,640609,17,2018,6/14/2018,Bluntnose Minnow,67,66,Regional Watershed Monitoring Program
+735,RG009WM,Active,Rouge River,LOWER ROUGE,4858865,640609,17,2018,6/14/2018,Common Shiner,87,4,Regional Watershed Monitoring Program
+736,RG009WM,Active,Rouge River,LOWER ROUGE,4858865,640609,17,2018,6/14/2018,Creek Chub,64,3,Regional Watershed Monitoring Program
+737,RG009WM,Active,Rouge River,LOWER ROUGE,4858865,640609,17,2018,6/14/2018,Cyprinidae,8,82,Regional Watershed Monitoring Program
+738,RG009WM,Active,Rouge River,LOWER ROUGE,4858865,640609,17,2018,6/14/2018,Johnny Darter,41,24,Regional Watershed Monitoring Program
+739,RG009WM,Active,Rouge River,LOWER ROUGE,4858865,640609,17,2018,6/14/2018,Longnose Dace,34,4,Regional Watershed Monitoring Program
+740,RG009WM,Active,Rouge River,LOWER ROUGE,4858865,640609,17,2018,6/14/2018,Rainbow Darter,11,4,Regional Watershed Monitoring Program
+741,RG009WM,Active,Rouge River,LOWER ROUGE,4858865,640609,17,2018,6/14/2018,Smallmouth Bass,0,1,Regional Watershed Monitoring Program
+742,RG009WM,Active,Rouge River,LOWER ROUGE,4858865,640609,17,2018,6/14/2018,White Sucker,555,217,Regional Watershed Monitoring Program
+743,RG010WM,Active,Rouge River,LOWER ROUGE,4858992,639846,17,2018,8/28/2018,Blacknose Dace,81,23,Regional Watershed Monitoring Program
+744,RG010WM,Active,Rouge River,LOWER ROUGE,4858992,639846,17,2018,8/28/2018,Bluegill,3,1,Regional Watershed Monitoring Program
+745,RG010WM,Active,Rouge River,LOWER ROUGE,4858992,639846,17,2018,8/28/2018,Central Stoneroller,122,22,Regional Watershed Monitoring Program
+746,RG010WM,Active,Rouge River,LOWER ROUGE,4858992,639846,17,2018,8/28/2018,Common Carp,6,1,Regional Watershed Monitoring Program
+747,RG010WM,Active,Rouge River,LOWER ROUGE,4858992,639846,17,2018,8/28/2018,Creek Chub,10,5,Regional Watershed Monitoring Program
+748,RG010WM,Active,Rouge River,LOWER ROUGE,4858992,639846,17,2018,8/28/2018,Johnny Darter,0,2,Regional Watershed Monitoring Program
+749,RG010WM,Active,Rouge River,LOWER ROUGE,4858992,639846,17,2018,8/28/2018,Longnose Dace,955,148,Regional Watershed Monitoring Program
+750,RG010WM,Active,Rouge River,LOWER ROUGE,4858992,639846,17,2018,8/28/2018,Rainbow Darter,19,30,Regional Watershed Monitoring Program
+751,RG010WM,Active,Rouge River,LOWER ROUGE,4858992,639846,17,2018,8/28/2018,Rainbow Trout,5,1,Regional Watershed Monitoring Program
+752,RG010WM,Active,Rouge River,LOWER ROUGE,4858992,639846,17,2018,8/28/2018,Smallmouth Bass,18,2,Regional Watershed Monitoring Program
+851,RG029WM,Active,Rouge River,LOWER ROUGE,4857691,641951,17,2018,8/30/2018,Bluntnose Minnow,1,2,Regional Watershed Monitoring Program
+852,RG029WM,Active,Rouge River,LOWER ROUGE,4857691,641951,17,2018,8/30/2018,Brown Bullhead,5,1,Regional Watershed Monitoring Program
+853,RG029WM,Active,Rouge River,LOWER ROUGE,4857691,641951,17,2018,8/30/2018,Common Carp,137,11,Regional Watershed Monitoring Program
+854,RG029WM,Active,Rouge River,LOWER ROUGE,4857691,641951,17,2018,8/30/2018,Common Shiner,37,20,Regional Watershed Monitoring Program
+855,RG029WM,Active,Rouge River,LOWER ROUGE,4857691,641951,17,2018,8/30/2018,Creek Chub,67,2,Regional Watershed Monitoring Program
+856,RG029WM,Active,Rouge River,LOWER ROUGE,4857691,641951,17,2018,8/30/2018,Cyprinidae,0,2,Regional Watershed Monitoring Program
+857,RG029WM,Active,Rouge River,LOWER ROUGE,4857691,641951,17,2018,8/30/2018,Johnny Darter,13,12,Regional Watershed Monitoring Program
+858,RG029WM,Active,Rouge River,LOWER ROUGE,4857691,641951,17,2018,8/30/2018,Longnose Dace,79,11,Regional Watershed Monitoring Program
+859,RG029WM,Active,Rouge River,LOWER ROUGE,4857691,641951,17,2018,8/30/2018,Pumpkinseed,4,1,Regional Watershed Monitoring Program
+860,RG029WM,Active,Rouge River,LOWER ROUGE,4857691,641951,17,2018,8/30/2018,Rainbow Darter,50,43,Regional Watershed Monitoring Program
+861,RG029WM,Active,Rouge River,LOWER ROUGE,4857691,641951,17,2018,8/30/2018,Rock Bass,140,4,Regional Watershed Monitoring Program
+862,RG029WM,Active,Rouge River,LOWER ROUGE,4857691,641951,17,2018,8/30/2018,Smallmouth Bass,10,1,Regional Watershed Monitoring Program
+863,RG029WM,Active,Rouge River,LOWER ROUGE,4857691,641951,17,2018,8/30/2018,White Sucker,33,4,Regional Watershed Monitoring Program
+771,RG015WM,Active,Rouge River,MAIN ROUGE,4859704,635069,17,2018,8/28/2018,Blacknose Dace,12,3,Regional Watershed Monitoring Program
+772,RG015WM,Active,Rouge River,MAIN ROUGE,4859704,635069,17,2018,8/28/2018,Bluntnose Minnow,34,9,Regional Watershed Monitoring Program
+773,RG015WM,Active,Rouge River,MAIN ROUGE,4859704,635069,17,2018,8/28/2018,Common Shiner,4,2,Regional Watershed Monitoring Program
+774,RG015WM,Active,Rouge River,MAIN ROUGE,4859704,635069,17,2018,8/28/2018,Creek Chub,124,43,Regional Watershed Monitoring Program
+775,RG015WM,Active,Rouge River,MAIN ROUGE,4859704,635069,17,2018,8/28/2018,Fathead Minnow,14,8,Regional Watershed Monitoring Program
+776,RG015WM,Active,Rouge River,MAIN ROUGE,4859704,635069,17,2018,8/28/2018,Johnny Darter,5,9,Regional Watershed Monitoring Program
+777,RG015WM,Active,Rouge River,MAIN ROUGE,4859704,635069,17,2018,8/28/2018,Largemouth Bass,10,1,Regional Watershed Monitoring Program
+778,RG015WM,Active,Rouge River,MAIN ROUGE,4859704,635069,17,2018,8/28/2018,Longnose Dace,117,40,Regional Watershed Monitoring Program
+779,RG015WM,Active,Rouge River,MAIN ROUGE,4859704,635069,17,2018,8/28/2018,Rainbow Darter,35,39,Regional Watershed Monitoring Program
+780,RG015WM,Active,Rouge River,MAIN ROUGE,4859704,635069,17,2018,8/28/2018,Rainbow Trout,145,2,Regional Watershed Monitoring Program
+781,RG015WM,Active,Rouge River,MAIN ROUGE,4859704,635069,17,2018,8/28/2018,White Sucker,7,4,Regional Watershed Monitoring Program
+782,RG016WM,Active,Rouge River,MAIN ROUGE,4859311,634363,17,2018,9/28/2018,American Brook Lamprey,70,7,Regional Watershed Monitoring Program
+783,RG016WM,Active,Rouge River,MAIN ROUGE,4859311,634363,17,2018,9/28/2018,Blacknose Dace,4,1,Regional Watershed Monitoring Program
+784,RG016WM,Active,Rouge River,MAIN ROUGE,4859311,634363,17,2018,9/28/2018,Common Shiner,7,1,Regional Watershed Monitoring Program
+785,RG016WM,Active,Rouge River,MAIN ROUGE,4859311,634363,17,2018,9/28/2018,Creek Chub,50,6,Regional Watershed Monitoring Program
+786,RG016WM,Active,Rouge River,MAIN ROUGE,4859311,634363,17,2018,9/28/2018,Johnny Darter,10,8,Regional Watershed Monitoring Program
+787,RG016WM,Active,Rouge River,MAIN ROUGE,4859311,634363,17,2018,9/28/2018,Largemouth Bass,19,2,Regional Watershed Monitoring Program
+788,RG016WM,Active,Rouge River,MAIN ROUGE,4859311,634363,17,2018,9/28/2018,Pumpkinseed,21,1,Regional Watershed Monitoring Program
+789,RG016WM,Active,Rouge River,MAIN ROUGE,4859311,634363,17,2018,9/28/2018,Rainbow Darter,1,1,Regional Watershed Monitoring Program
+790,RG017WM,Active,Rouge River,MAIN ROUGE,4859992,633040,17,2018,9/12/2018,Blacknose Dace,35,10,Regional Watershed Monitoring Program
+791,RG017WM,Active,Rouge River,MAIN ROUGE,4859992,633040,17,2018,9/12/2018,Creek Chub,124,12,Regional Watershed Monitoring Program
+792,RG017WM,Active,Rouge River,MAIN ROUGE,4859992,633040,17,2018,9/12/2018,Fathead Minnow,4,1,Regional Watershed Monitoring Program
+793,RG017WM,Active,Rouge River,MAIN ROUGE,4859992,633040,17,2018,9/12/2018,Johnny Darter,0,3,Regional Watershed Monitoring Program
+794,RG017WM,Active,Rouge River,MAIN ROUGE,4859992,633040,17,2018,9/12/2018,Largemouth Bass,2,1,Regional Watershed Monitoring Program
+795,RG017WM,Active,Rouge River,MAIN ROUGE,4859992,633040,17,2018,9/12/2018,Longnose Dace,13,4,Regional Watershed Monitoring Program
+796,RG018WM,Active,Rouge River,MAIN ROUGE,4862600,631484,17,2018,9/13/2018,Blacknose Dace,105,75,Regional Watershed Monitoring Program
+797,RG018WM,Active,Rouge River,MAIN ROUGE,4862600,631484,17,2018,9/13/2018,Brook Stickleback,2,3,Regional Watershed Monitoring Program
+798,RG018WM,Active,Rouge River,MAIN ROUGE,4862600,631484,17,2018,9/13/2018,Common Shiner,3,2,Regional Watershed Monitoring Program
+799,RG018WM,Active,Rouge River,MAIN ROUGE,4862600,631484,17,2018,9/13/2018,Creek Chub,117,24,Regional Watershed Monitoring Program
+800,RG018WM,Active,Rouge River,MAIN ROUGE,4862600,631484,17,2018,9/13/2018,Johnny Darter,12,21,Regional Watershed Monitoring Program
+801,RG018WM,Active,Rouge River,MAIN ROUGE,4862600,631484,17,2018,9/13/2018,Rainbow Darter,35,27,Regional Watershed Monitoring Program
+802,RG018WM,Active,Rouge River,MAIN ROUGE,4862600,631484,17,2018,9/13/2018,Rainbow Trout,3,1,Regional Watershed Monitoring Program
+803,RG018WM,Active,Rouge River,MAIN ROUGE,4862600,631484,17,2018,9/13/2018,White Sucker,46,4,Regional Watershed Monitoring Program
+804,RG019WM,Active,Rouge River,MAIN ROUGE,4865497,633496,17,2018,9/13/2018,Creek Chub,80,4,Regional Watershed Monitoring Program
+805,RG019WM,Active,Rouge River,MAIN ROUGE,4865497,633496,17,2018,9/13/2018,Mottled Sculpin,6,1,Regional Watershed Monitoring Program
+806,RG019WM,Active,Rouge River,MAIN ROUGE,4865497,633496,17,2018,9/13/2018,Rainbow Darter,2,1,Regional Watershed Monitoring Program
+807,RG019WM,Active,Rouge River,MAIN ROUGE,4865497,633496,17,2018,9/13/2018,White Sucker,0,1,Regional Watershed Monitoring Program
+808,RG021WM,Active,Rouge River,UPPER/BEAVER,4856671,632712,17,2018,9/6/2018,Blacknose Dace,5,1,Regional Watershed Monitoring Program
+809,RG021WM,Active,Rouge River,UPPER/BEAVER,4856671,632712,17,2018,9/6/2018,Common Carp,120,9,Regional Watershed Monitoring Program
+810,RG021WM,Active,Rouge River,UPPER/BEAVER,4856671,632712,17,2018,9/6/2018,Common Shiner,21,2,Regional Watershed Monitoring Program
+811,RG021WM,Active,Rouge River,UPPER/BEAVER,4856671,632712,17,2018,9/6/2018,Creek Chub,392,19,Regional Watershed Monitoring Program
+812,RG021WM,Active,Rouge River,UPPER/BEAVER,4856671,632712,17,2018,9/6/2018,Johnny Darter,7,12,Regional Watershed Monitoring Program
+813,RG021WM,Active,Rouge River,UPPER/BEAVER,4856671,632712,17,2018,9/6/2018,Longnose Dace,118,28,Regional Watershed Monitoring Program
+814,RG021WM,Active,Rouge River,UPPER/BEAVER,4856671,632712,17,2018,9/6/2018,Mottled Sculpin,1,1,Regional Watershed Monitoring Program
+815,RG021WM,Active,Rouge River,UPPER/BEAVER,4856671,632712,17,2018,9/6/2018,Rainbow Darter,10,13,Regional Watershed Monitoring Program
+816,RG021WM,Active,Rouge River,UPPER/BEAVER,4856671,632712,17,2018,9/6/2018,White Sucker,92,4,Regional Watershed Monitoring Program
+817,RG022WM,Active,Rouge River,UPPER/BEAVER,4860192,629150,17,2018,9/12/2018,Blacknose Dace,119,31,Regional Watershed Monitoring Program
+818,RG022WM,Active,Rouge River,UPPER/BEAVER,4860192,629150,17,2018,9/12/2018,Common Shiner,77,6,Regional Watershed Monitoring Program
+819,RG022WM,Active,Rouge River,UPPER/BEAVER,4860192,629150,17,2018,9/12/2018,Creek Chub,189,15,Regional Watershed Monitoring Program
+820,RG022WM,Active,Rouge River,UPPER/BEAVER,4860192,629150,17,2018,9/12/2018,Fathead Minnow,20,4,Regional Watershed Monitoring Program
+821,RG022WM,Active,Rouge River,UPPER/BEAVER,4860192,629150,17,2018,9/12/2018,Johnny Darter,5,2,Regional Watershed Monitoring Program
+822,RG022WM,Active,Rouge River,UPPER/BEAVER,4860192,629150,17,2018,9/12/2018,Longnose Dace,119,41,Regional Watershed Monitoring Program
+823,RG022WM,Active,Rouge River,UPPER/BEAVER,4860192,629150,17,2018,9/12/2018,Mottled Sculpin,29,8,Regional Watershed Monitoring Program
+824,RG022WM,Active,Rouge River,UPPER/BEAVER,4860192,629150,17,2018,9/12/2018,Rainbow Darter,13,8,Regional Watershed Monitoring Program
+825,RG022WM,Active,Rouge River,UPPER/BEAVER,4860192,629150,17,2018,9/12/2018,White Sucker,132,6,Regional Watershed Monitoring Program
+826,RG023WM,Active,Rouge River,UPPER/BEAVER,4860196,629462,17,2018,9/18/2018,Blacknose Dace,11,7,Regional Watershed Monitoring Program
+827,RG023WM,Active,Rouge River,UPPER/BEAVER,4860196,629462,17,2018,9/18/2018,Common Shiner,1,1,Regional Watershed Monitoring Program
+828,RG023WM,Active,Rouge River,UPPER/BEAVER,4860196,629462,17,2018,9/18/2018,Creek Chub,201,8,Regional Watershed Monitoring Program
+829,RG023WM,Active,Rouge River,UPPER/BEAVER,4860196,629462,17,2018,9/18/2018,Johnny Darter,1,1,Regional Watershed Monitoring Program
+830,RG023WM,Active,Rouge River,UPPER/BEAVER,4860196,629462,17,2018,9/18/2018,Longnose Dace,27,9,Regional Watershed Monitoring Program
+831,RG023WM,Active,Rouge River,UPPER/BEAVER,4860196,629462,17,2018,9/18/2018,Mottled Sculpin,4,2,Regional Watershed Monitoring Program
+832,RG023WM,Active,Rouge River,UPPER/BEAVER,4860196,629462,17,2018,9/18/2018,Rainbow Darter,7,4,Regional Watershed Monitoring Program
+833,RG023WM,Active,Rouge River,UPPER/BEAVER,4860196,629462,17,2018,9/18/2018,Rainbow Trout,2,1,Regional Watershed Monitoring Program
+834,RG024WM,Active,Rouge River,UPPER/BEAVER,4860799,627788,17,2018,8/29/2018,Blacknose Dace,50,12,Regional Watershed Monitoring Program
+835,RG024WM,Active,Rouge River,UPPER/BEAVER,4860799,627788,17,2018,8/29/2018,Brown Trout,549,1,Regional Watershed Monitoring Program
+836,RG024WM,Active,Rouge River,UPPER/BEAVER,4860799,627788,17,2018,8/29/2018,Creek Chub,153,6,Regional Watershed Monitoring Program
+837,RG024WM,Active,Rouge River,UPPER/BEAVER,4860799,627788,17,2018,8/29/2018,Longnose Dace,61,17,Regional Watershed Monitoring Program
+838,RG024WM,Active,Rouge River,UPPER/BEAVER,4860799,627788,17,2018,8/29/2018,Mottled Sculpin,22,3,Regional Watershed Monitoring Program
+839,RG024WM,Active,Rouge River,UPPER/BEAVER,4860799,627788,17,2018,8/29/2018,White Sucker,232,3,Regional Watershed Monitoring Program
+840,RG025WM,Active,Rouge River,UPPER/BEAVER,4863286,626904,17,2018,8/27/2018,Blacknose Dace,39,6,Regional Watershed Monitoring Program
+841,RG025WM,Active,Rouge River,UPPER/BEAVER,4863286,626904,17,2018,8/27/2018,Brook Stickleback,16,19,Regional Watershed Monitoring Program
+842,RG025WM,Active,Rouge River,UPPER/BEAVER,4863286,626904,17,2018,8/27/2018,Fathead Minnow,4,1,Regional Watershed Monitoring Program
+843,RG026WM,Active,Rouge River,UPPER/BEAVER,4863607,627868,17,2018,8/28/2018,American Brook Lamprey,17,3,Regional Watershed Monitoring Program
+844,RG026WM,Active,Rouge River,UPPER/BEAVER,4863607,627868,17,2018,8/28/2018,Blacknose Dace,90,41,Regional Watershed Monitoring Program
+845,RG026WM,Active,Rouge River,UPPER/BEAVER,4863607,627868,17,2018,8/28/2018,Brook Trout,46,4,Regional Watershed Monitoring Program
+846,RG026WM,Active,Rouge River,UPPER/BEAVER,4863607,627868,17,2018,8/28/2018,Creek Chub,2,2,Regional Watershed Monitoring Program
+847,RG026WM,Active,Rouge River,UPPER/BEAVER,4863607,627868,17,2018,8/28/2018,Fathead Minnow,13,10,Regional Watershed Monitoring Program
+848,RG026WM,Active,Rouge River,UPPER/BEAVER,4863607,627868,17,2018,8/28/2018,Johnny Darter,4,2,Regional Watershed Monitoring Program
+849,RG026WM,Active,Rouge River,UPPER/BEAVER,4863607,627868,17,2018,8/28/2018,Longnose Dace,32,11,Regional Watershed Monitoring Program
+850,RG026WM,Active,Rouge River,UPPER/BEAVER,4863607,627868,17,2018,8/28/2018,Rainbow Trout,3,2,Regional Watershed Monitoring Program
+447,Humber River Estuary - East Shore at Mouth,Inactive,Humber River,WATERFRONT,4832171,623330,17,2018,10/22/2018,Alewife,19,1,Project
+448,Humber River Estuary - East Shore at Mouth,Inactive,Humber River,WATERFRONT,4832171,623330,17,2018,10/22/2018,Bluntnose Minnow,4,1,Project
+449,Humber River Estuary - East Shore at Mouth,Inactive,Humber River,WATERFRONT,4832171,623330,17,2018,10/22/2018,Brown Bullhead,897,5,Project
+450,Humber River Estuary - East Shore at Mouth,Inactive,Humber River,WATERFRONT,4832171,623330,17,2018,10/22/2018,Emerald Shiner,200,75,Project
+451,Humber River Estuary - East Shore at Mouth,Inactive,Humber River,WATERFRONT,4832171,623330,17,2018,10/22/2018,Fathead Minnow,14,3,Project
+452,Humber River Estuary - East Shore at Mouth,Inactive,Humber River,WATERFRONT,4832171,623330,17,2018,10/22/2018,Gizzard Shad,300,4,Project
+453,Humber River Estuary - East Shore at Mouth,Inactive,Humber River,WATERFRONT,4832171,623330,17,2018,10/22/2018,Goldfish,202,10,Project
+454,Humber River Estuary - East Shore at Mouth,Inactive,Humber River,WATERFRONT,4832171,623330,17,2018,10/22/2018,Largemouth Bass,125,1,Project
+455,Humber River Estuary - East Shore at Mouth,Inactive,Humber River,WATERFRONT,4832171,623330,17,2018,10/22/2018,Northern Pike,1800,1,Project
+456,Humber River Estuary - East Shore at Mouth,Inactive,Humber River,WATERFRONT,4832171,623330,17,2018,10/22/2018,Pumpkinseed,2,1,Project
+457,Humber River Estuary - East Shore at Mouth,Inactive,Humber River,WATERFRONT,4832171,623330,17,2018,10/22/2018,Rock Bass,48,1,Project
+458,Humber River Estuary - East Shore at Mouth,Inactive,Humber River,WATERFRONT,4832171,623330,17,2018,10/22/2018,Spottail Shiner,22,4,Project
+459,Humber River Estuary - East Shore at Mouth,Inactive,Humber River,WATERFRONT,4832171,623330,17,2018,10/22/2018,White Sucker,590,10,Project
+460,Humber River Estuary - East Shore at Mouth,Inactive,Humber River,WATERFRONT,4832171,623330,17,2018,7/23/2018,Brown Bullhead,146,2,Project
+461,Humber River Estuary - East Shore at Mouth,Inactive,Humber River,WATERFRONT,4832171,623330,17,2018,7/23/2018,Common Shiner,19,4,Project
+462,Humber River Estuary - East Shore at Mouth,Inactive,Humber River,WATERFRONT,4832171,623330,17,2018,7/23/2018,Gizzard Shad,2350,3,Project
+463,Humber River Estuary - East Shore at Mouth,Inactive,Humber River,WATERFRONT,4832171,623330,17,2018,5/17/2018,Alewife,1220,26,Project
+464,Humber River Estuary - East Shore at Mouth,Inactive,Humber River,WATERFRONT,4832171,623330,17,2018,5/17/2018,Common Carp,19600,2,Project
+465,Humber River Estuary - East Shore at Mouth,Inactive,Humber River,WATERFRONT,4832171,623330,17,2018,5/17/2018,Gizzard Shad,4400,4,Project
+550,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,11/1/2018,Common Shiner,19,1,Project
+551,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,11/1/2018,Emerald Shiner,6,1,Project
+552,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,11/1/2018,Gizzard Shad,417,14,Project
+553,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,11/1/2018,Spottail Shiner,432,39,Project
+554,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,11/1/2018,White Sucker,8506,18,Project
+555,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,10/25/2018,Brown Bullhead,255,1,Project
+556,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,10/25/2018,White Sucker,8,2,Project
+557,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,10/12/2018,Chinook Salmon,25700,4,Project
+558,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,10/12/2018,Gizzard Shad,1776,47,Project
+559,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,10/12/2018,Spotfin Shiner,10,1,Project
+560,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,10/12/2018,White Sucker,6519,12,Project
+561,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,10/4/2018,Gizzard Shad,46,2,Project
+562,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,10/4/2018,White Sucker,822,2,Project
+563,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,9/24/2018,Chinook Salmon,86800,13,Project
+564,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,9/24/2018,Rainbow Trout,2300,1,Project
+565,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,9/24/2018,Sea Lamprey,300,1,Project
+566,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,9/24/2018,White Sucker,650,1,Project
+567,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,9/17/2018,Common Carp,10300,2,Project
+568,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,9/17/2018,Gizzard Shad,42,1,Project
+569,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,8/10/2018,Common Carp,13200,2,Project
+570,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,8/10/2018,Gizzard Shad,2650,3,Project
+571,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,8/10/2018,White Sucker,2810,5,Project
+572,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,7/23/2018,Gizzard Shad,3950,5,Project
+573,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,7/23/2018,Walleye,130,1,Project
+574,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,7/23/2018,White Sucker,4400,12,Project
+575,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,7/11/2018,Gizzard Shad,21750,21,Project
+576,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,7/6/2018,Gizzard Shad,2350,3,Project
+577,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,7/6/2018,White Sucker,1842,4,Project
+578,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,6/28/2018,Common Carp,17500,3,Project
+579,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,6/28/2018,Gizzard Shad,10300,9,Project
+580,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,6/28/2018,White Sucker,4050,7,Project
+581,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,6/21/2018,Gizzard Shad,4800,6,Project
+582,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,6/21/2018,White Sucker,300,1,Project
+583,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,6/14/2018,Common Carp,3900,1,Project
+584,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,6/14/2018,Gizzard Shad,1000,1,Project
+585,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,6/14/2018,Smallmouth Bass,800,1,Project
+586,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,6/14/2018,White Sucker,2550,5,Project
+587,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,6/8/2018,Gizzard Shad,5100,5,Project
+588,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,6/8/2018,White Sucker,2315,3,Project
+589,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,5/29/2018,Common Carp,33850,6,Project
+590,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,5/29/2018,Gizzard Shad,12350,12,Project
+591,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,5/29/2018,Quillback,3250,1,Project
+592,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,5/29/2018,White Sucker,6700,5,Project
+593,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,5/9/2018,Gizzard Shad,4700,4,Project
+594,Lower Don River North,Inactive,Don River,LOWER DON,4834920,632920,17,2018,5/9/2018,White Sucker,14654,11,Project
+595,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,11/1/2018,Emerald Shiner,29,4,Project
+596,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,11/1/2018,Gizzard Shad,1147,53,Project
+597,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,11/1/2018,Spottail Shiner,190,24,Project
+598,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,11/1/2018,White Sucker,9508,21,Project
+599,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,10/29/2018,Chinook Salmon,21800,3,Project
+600,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,10/29/2018,Common Carp,8800,1,Project
+601,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,10/29/2018,White Sucker,8550,10,Project
+602,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,10/12/2018,Common Carp,25550,3,Project
+603,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,10/12/2018,Gizzard Shad,3149,45,Project
+604,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,10/12/2018,Rainbow Trout,1450,1,Project
+605,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,10/12/2018,White Sucker,3373,6,Project
+606,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,10/4/2018,Gizzard Shad,27,1,Project
+607,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,10/4/2018,White Sucker,18,1,Project
+608,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,9/24/2018,Chinook Salmon,54400,8,Project
+609,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,9/24/2018,Gizzard Shad,2150,2,Project
+610,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,9/24/2018,White Sucker,1550,2,Project
+611,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,9/17/2018,Common Carp,5800,2,Project
+612,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,9/17/2018,Gizzard Shad,14455,21,Project
+613,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,8/10/2018,Common Carp,6200,1,Project
+614,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,8/10/2018,Gizzard Shad,7950,7,Project
+615,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,8/10/2018,White Bass,301,1,Project
+616,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,8/10/2018,White Sucker,1313,5,Project
+617,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,7/23/2018,Gizzard Shad,1550,2,Project
+618,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,7/23/2018,White Sucker,0,1,Project
+619,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,7/11/2018,Gizzard Shad,5250,6,Project
+620,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,7/6/2018,Gizzard Shad,650,1,Project
+621,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,6/28/2018,Blacknose Dace,7,1,Project
+622,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,6/28/2018,Common Carp,7100,1,Project
+623,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,6/28/2018,Gizzard Shad,1400,1,Project
+624,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,6/28/2018,White Sucker,1210,4,Project
+625,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,6/21/2018,Emerald Shiner,5,2,Project
+626,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,6/21/2018,Gizzard Shad,1000,1,Project
+627,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,6/21/2018,White Sucker,600,1,Project
+628,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,6/14/2018,White Sucker,45,1,Project
+629,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,6/8/2018,Common Carp,12000,1,Project
+630,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,6/8/2018,Emerald Shiner,6,1,Project
+631,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,6/8/2018,Gizzard Shad,18850,16,Project
+632,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,6/8/2018,White Bass,700,1,Project
+633,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,5/29/2018,Gizzard Shad,4900,5,Project
+634,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,5/9/2018,Bigmouth Buffalo,3900,1,Project
+635,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,5/9/2018,Common Carp,81500,9,Project
+636,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,5/9/2018,Gizzard Shad,1100,1,Project
+637,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,5/9/2018,Koi,0,1,Project
+638,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,5/9/2018,Silver Redhorse,3000,1,Project
+639,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,5/9/2018,Walleye,2500,1,Project
+640,Lower Don River South,Inactive,Don River,LOWER DON,4834460,633251,17,2018,5/9/2018,White Sucker,3050,2,Project
+356,EC009WM,Active,Etobicoke Creek,SPRING CREEK,4838947,605509,17,2018,7/11/2018,Blacknose Dace,431,104,Regional Watershed Monitoring Program
+357,EC009WM,Active,Etobicoke Creek,SPRING CREEK,4838947,605509,17,2018,7/11/2018,Bluntnose Minnow,32,9,Regional Watershed Monitoring Program
+358,EC009WM,Active,Etobicoke Creek,SPRING CREEK,4838947,605509,17,2018,7/11/2018,Brook Stickleback,0,1,Regional Watershed Monitoring Program
+359,EC009WM,Active,Etobicoke Creek,SPRING CREEK,4838947,605509,17,2018,7/11/2018,Central Stoneroller,30,2,Regional Watershed Monitoring Program
+360,EC009WM,Active,Etobicoke Creek,SPRING CREEK,4838947,605509,17,2018,7/11/2018,Common Shiner,124,5,Regional Watershed Monitoring Program
+361,EC009WM,Active,Etobicoke Creek,SPRING CREEK,4838947,605509,17,2018,7/11/2018,Creek Chub,118,7,Regional Watershed Monitoring Program
+362,EC009WM,Active,Etobicoke Creek,SPRING CREEK,4838947,605509,17,2018,7/11/2018,Fathead Minnow,13,2,Regional Watershed Monitoring Program
+363,EC009WM,Active,Etobicoke Creek,SPRING CREEK,4838947,605509,17,2018,7/11/2018,Green Sunfish,85,31,Regional Watershed Monitoring Program
+364,EC009WM,Active,Etobicoke Creek,SPRING CREEK,4838947,605509,17,2018,7/11/2018,Longnose Dace,309,69,Regional Watershed Monitoring Program
+365,EC009WM,Active,Etobicoke Creek,SPRING CREEK,4838947,605509,17,2018,7/11/2018,Pumpkinseed,5,1,Regional Watershed Monitoring Program
+423,Heart Lake East Shore,Inactive,Etobicoke Creek,SPRING CREEK,4843870,597062,17,2018,9/7/2018,Brown Bullhead,468,2,Project
+424,Heart Lake East Shore,Inactive,Etobicoke Creek,SPRING CREEK,4843870,597062,17,2018,9/7/2018,Largemouth Bass,261,21,Project
+425,Heart Lake East Shore,Inactive,Etobicoke Creek,SPRING CREEK,4843870,597062,17,2018,9/7/2018,Pumpkinseed,519,9,Project
+426,Heart Lake East Shore,Inactive,Etobicoke Creek,SPRING CREEK,4843870,597062,17,2018,9/7/2018,Rock Bass,230,4,Project
+427,Heart Lake North Shore,Inactive,Etobicoke Creek,SPRING CREEK,4843850,596828,17,2018,9/7/2018,Black Crappie,250,9,Project
+428,Heart Lake North Shore,Inactive,Etobicoke Creek,SPRING CREEK,4843850,596828,17,2018,9/7/2018,Brown Bullhead,2687,8,Project
+429,Heart Lake North Shore,Inactive,Etobicoke Creek,SPRING CREEK,4843850,596828,17,2018,9/7/2018,Largemouth Bass,1158,11,Project
+430,Heart Lake North Shore,Inactive,Etobicoke Creek,SPRING CREEK,4843850,596828,17,2018,9/7/2018,Pumpkinseed,296,7,Project
+431,Heart Lake South Shore,Inactive,Etobicoke Creek,SPRING CREEK,4843540,596939,17,2018,9/7/2018,Brown Bullhead,68,1,Project
+432,Heart Lake South Shore,Inactive,Etobicoke Creek,SPRING CREEK,4843540,596939,17,2018,9/7/2018,Largemouth Bass,36,6,Project
+433,Heart Lake South Shore,Inactive,Etobicoke Creek,SPRING CREEK,4843540,596939,17,2018,9/7/2018,Pumpkinseed,297,11,Project
+434,Heart Lake West Shore,Inactive,Etobicoke Creek,SPRING CREEK,4843820,596826,17,2018,9/7/2018,Brown Bullhead,760,2,Project
+435,Heart Lake West Shore,Inactive,Etobicoke Creek,SPRING CREEK,4843820,596826,17,2018,9/7/2018,Largemouth Bass,544,13,Project
+436,Heart Lake West Shore,Inactive,Etobicoke Creek,SPRING CREEK,4843820,596826,17,2018,9/7/2018,Pumpkinseed,594,10,Project
+641,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,12/4/2018,Green Sunfish,0,2,Project
+642,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,11/29/2018,Fathead Minnow,2,1,Project
+643,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,11/29/2018,Fathead Minnow,2,1,Project
+644,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,11/29/2018,Green Sunfish,124,19,Project
+645,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,11/29/2018,Green Sunfish,125,28,Project
+646,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,11/29/2018,Green Sunfish,47,11,Project
+647,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,11/29/2018,Pumpkinseed,5,4,Project
+648,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,11/29/2018,Pumpkinseed,68,17,Project
+649,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,11/29/2018,Pumpkinseed,34,18,Project
+650,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,11/12/2018,Fathead Minnow,14,3,Project
+651,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,11/12/2018,Green Sunfish,91,16,Project
+652,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,11/12/2018,Green Sunfish,66,13,Project
+653,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,11/12/2018,Green Sunfish,50,7,Project
+654,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,11/12/2018,Green Sunfish,15,5,Project
+655,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,11/12/2018,Pumpkinseed,3,3,Project
+656,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,11/12/2018,Pumpkinseed,38,9,Project
+657,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,11/12/2018,Pumpkinseed,33,7,Project
+658,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,11/12/2018,Pumpkinseed,50,10,Project
+659,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,10/15/2018,Brown Bullhead,208,4,Project
+660,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,10/15/2018,Brown Bullhead,20,2,Project
+661,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,10/15/2018,Brown Bullhead,139,7,Project
+662,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,10/15/2018,Brown Bullhead,19,2,Project
+663,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,10/15/2018,Green Sunfish,1093,78,Project
+664,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,10/15/2018,Green Sunfish,1645,88,Project
+665,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,10/15/2018,Green Sunfish,187,25,Project
+666,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,10/15/2018,Green Sunfish,487,42,Project
+667,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,10/15/2018,Pumpkinseed,282,54,Project
+668,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,10/15/2018,Pumpkinseed,146,37,Project
+669,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,10/15/2018,Pumpkinseed,719,89,Project
+670,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,10/15/2018,Pumpkinseed,649,121,Project
+671,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,9/11/2018,Fathead Minnow,4,1,Project
+672,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,9/11/2018,Green Sunfish,271,24,Project
+673,Maitland Park Bank Stabilization Project Fish Rescue,Inactive,Etobicoke Creek,SPRING CREEK,4842976,601203,17,2018,9/11/2018,Pumpkinseed,37,9,Project
+366,ECBREAWB1,Active,Etobicoke Creek,ETOBICOKE WEST BRANCH,4837940,600484,17,2018,7/12/2018,Blacknose Dace,154,49,Project
+367,ECBREAWB1,Active,Etobicoke Creek,ETOBICOKE WEST BRANCH,4837940,600484,17,2018,7/12/2018,Bluntnose Minnow,7,2,Project
+368,ECBREAWB1,Active,Etobicoke Creek,ETOBICOKE WEST BRANCH,4837940,600484,17,2018,7/12/2018,Central Stoneroller,92,12,Project
+369,ECBREAWB1,Active,Etobicoke Creek,ETOBICOKE WEST BRANCH,4837940,600484,17,2018,7/12/2018,Common Shiner,172,20,Project
+370,ECBREAWB1,Active,Etobicoke Creek,ETOBICOKE WEST BRANCH,4837940,600484,17,2018,7/12/2018,Creek Chub,667,38,Project
+371,ECBREAWB1,Active,Etobicoke Creek,ETOBICOKE WEST BRANCH,4837940,600484,17,2018,7/12/2018,Green Sunfish,112,3,Project
+372,ECBREAWB1,Active,Etobicoke Creek,ETOBICOKE WEST BRANCH,4837940,600484,17,2018,7/12/2018,Johnny Darter,23,17,Project
+373,ECBREAWB1,Active,Etobicoke Creek,ETOBICOKE WEST BRANCH,4837940,600484,17,2018,7/12/2018,Longnose Dace,67,22,Project
+374,ECBREAWB1,Active,Etobicoke Creek,ETOBICOKE WEST BRANCH,4837940,600484,17,2018,7/12/2018,Rainbow Darter,39,24,Project
+375,ECBREAWB1,Active,Etobicoke Creek,ETOBICOKE WEST BRANCH,4837940,600484,17,2018,7/12/2018,Rock Bass,106,2,Project
+376,ECBREAWB1,Active,Etobicoke Creek,ETOBICOKE WEST BRANCH,4837940,600484,17,2018,7/12/2018,White Sucker,698,30,Project
+91,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Bluegill,1,1,Project
+92,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Bluegill,2,1,Project
+93,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Brown Bullhead,1160,5,Project
+94,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Brown Bullhead,76,1,Project
+95,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Common Carp,3200,1,Project
+96,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Golden Shiner,10,2,Project
+97,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Golden Shiner,17,4,Project
+98,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Golden Shiner,5,1,Project
+99,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Largemouth Bass,5,1,Project
+100,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Largemouth Bass,4,1,Project
+101,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Largemouth Bass,5,1,Project
+102,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Largemouth Bass,30,4,Project
+103,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Largemouth Bass,10,3,Project
+104,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Largemouth Bass,87,8,Project
+105,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Pumpkinseed,15,1,Project
+106,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Pumpkinseed,6,1,Project
+107,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Pumpkinseed,2,1,Project
+108,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Pumpkinseed,32,2,Project
+109,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Yellow Perch,41,6,Project
+110,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Yellow Perch,7,1,Project
+111,CLOCA E-Fishing - Frenchman's Bay,Inactive,Frenchmans Bay,,4853262,653458,17,2018,9/7/2018,Yellow Perch,16,2,Project
+377,Etobicoke Creek Marie Curtis Park,Inactive,Etobicoke Creek,,4826750,617786,17,2018,7/17/2018,Alewife,180,12,Project
+378,Etobicoke Creek Marie Curtis Park,Inactive,Etobicoke Creek,,4826750,617786,17,2018,7/17/2018,Common Carp,13250,2,Project
+379,Etobicoke Creek Marie Curtis Park,Inactive,Etobicoke Creek,,4826750,617786,17,2018,7/17/2018,Common Shiner,75,3,Project
+380,Etobicoke Creek Marie Curtis Park,Inactive,Etobicoke Creek,,4826750,617786,17,2018,7/17/2018,Emerald Shiner,43,9,Project
+381,Etobicoke Creek Marie Curtis Park,Inactive,Etobicoke Creek,,4826750,617786,17,2018,7/17/2018,Gizzard Shad,15000,14,Project
+382,Etobicoke Creek Marie Curtis Park,Inactive,Etobicoke Creek,,4826750,617786,17,2018,7/17/2018,Smallmouth Bass,1300,1,Project
+383,Etobicoke Creek Marie Curtis Park,Inactive,Etobicoke Creek,,4826750,617786,17,2018,7/17/2018,White Sucker,2335,5,Project
